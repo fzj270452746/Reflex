@@ -1,0 +1,514 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		28D43A712E90C72000D0AFE8 /* ReflexTyadKoeuy.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = 28D43A702E90C72000D0AFE8 /* ReflexTyadKoeuy.xcframework */; };
+		2994EAA015F05AC483408E1B /* Pods_Reflex.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CFDDE4DC616CD48B840CFD8E /* Pods_Reflex.framework */; };
+		FEF525AE2E71BE4A0043475D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FEF525A32E71BE4A0043475D /* Assets.xcassets */; };
+		FEF525B02E71BE4A0043475D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FEF525A62E71BE4A0043475D /* LaunchScreen.storyboard */; };
+		FEF525B12E71BE4A0043475D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FEF525A82E71BE4A0043475D /* Main.storyboard */; };
+		FEF525B32E71BE4A0043475D /* Reflex.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = FEF525A92E71BE4A0043475D /* Reflex.xcdatamodeld */; };
+		FEF525C22E730B3B0043475D /* MenuVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEF525BD2E730B3B0043475D /* MenuVC.swift */; };
+		FEF525C32E730B3B0043475D /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEF525BF2E730B3B0043475D /* SceneDelegate.swift */; };
+		FEF525C42E730B3B0043475D /* MahjongGameVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEF525BC2E730B3B0043475D /* MahjongGameVC.swift */; };
+		FEF525C52E730B3B0043475D /* ScoreVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEF525C02E730B3B0043475D /* ScoreVC.swift */; };
+		FEF525C62E730B3B0043475D /* InstructionsVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEF525BB2E730B3B0043475D /* InstructionsVC.swift */; };
+		FEF525C72E730B3B0043475D /* SettingsVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEF525C12E730B3B0043475D /* SettingsVC.swift */; };
+		FEF525C82E730B3B0043475D /* ReflexModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEF525BE2E730B3B0043475D /* ReflexModel.swift */; };
+		FEF525C92E730B3B0043475D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEF525BA2E730B3B0043475D /* AppDelegate.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		28D43A702E90C72000D0AFE8 /* ReflexTyadKoeuy.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = ReflexTyadKoeuy.xcframework; sourceTree = "<group>"; };
+		6D42B108A572567530B4875A /* Pods-Reflex.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Reflex.release.xcconfig"; path = "Target Support Files/Pods-Reflex/Pods-Reflex.release.xcconfig"; sourceTree = "<group>"; };
+		C5EF930DAEA09C62BE5A88CD /* Pods-Reflex.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Reflex.debug.xcconfig"; path = "Target Support Files/Pods-Reflex/Pods-Reflex.debug.xcconfig"; sourceTree = "<group>"; };
+		CFDDE4DC616CD48B840CFD8E /* Pods_Reflex.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Reflex.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		FEF525872E71BDF60043475D /* Reflex.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Reflex.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		FEF525A32E71BE4A0043475D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		FEF525A42E71BE4A0043475D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FEF525A52E71BE4A0043475D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		FEF525A72E71BE4A0043475D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		FEF525AD2E71BE4A0043475D /* Reflex.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Reflex.xcdatamodel; sourceTree = "<group>"; };
+		FEF525BA2E730B3B0043475D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		FEF525BB2E730B3B0043475D /* InstructionsVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InstructionsVC.swift; sourceTree = "<group>"; };
+		FEF525BC2E730B3B0043475D /* MahjongGameVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MahjongGameVC.swift; sourceTree = "<group>"; };
+		FEF525BD2E730B3B0043475D /* MenuVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuVC.swift; sourceTree = "<group>"; };
+		FEF525BE2E730B3B0043475D /* ReflexModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReflexModel.swift; sourceTree = "<group>"; };
+		FEF525BF2E730B3B0043475D /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		FEF525C02E730B3B0043475D /* ScoreVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScoreVC.swift; sourceTree = "<group>"; };
+		FEF525C12E730B3B0043475D /* SettingsVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsVC.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		FEF525842E71BDF60043475D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2994EAA015F05AC483408E1B /* Pods_Reflex.framework in Frameworks */,
+				28D43A712E90C72000D0AFE8 /* ReflexTyadKoeuy.xcframework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		1C2132F344A2675BEF759959 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				C5EF930DAEA09C62BE5A88CD /* Pods-Reflex.debug.xcconfig */,
+				6D42B108A572567530B4875A /* Pods-Reflex.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
+		B622C8EB8D3ED386B4060F37 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				CFDDE4DC616CD48B840CFD8E /* Pods_Reflex.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		FEE32CF02E75AA3900364333 /* Reflex_VC */ = {
+			isa = PBXGroup;
+			children = (
+				FEF525BB2E730B3B0043475D /* InstructionsVC.swift */,
+				FEF525BC2E730B3B0043475D /* MahjongGameVC.swift */,
+				FEF525BD2E730B3B0043475D /* MenuVC.swift */,
+				FEF525C02E730B3B0043475D /* ScoreVC.swift */,
+				FEF525C12E730B3B0043475D /* SettingsVC.swift */,
+			);
+			path = Reflex_VC;
+			sourceTree = "<group>";
+		};
+		FEF5257E2E71BDF60043475D = {
+			isa = PBXGroup;
+			children = (
+				FEF525AC2E71BE4A0043475D /* Reflex */,
+				FEF525882E71BDF60043475D /* Products */,
+				1C2132F344A2675BEF759959 /* Pods */,
+				B622C8EB8D3ED386B4060F37 /* Frameworks */,
+			);
+			sourceTree = "<group>";
+		};
+		FEF525882E71BDF60043475D /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				FEF525872E71BDF60043475D /* Reflex.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		FEF525AC2E71BE4A0043475D /* Reflex */ = {
+			isa = PBXGroup;
+			children = (
+				FEF525BF2E730B3B0043475D /* SceneDelegate.swift */,
+				FEF525BA2E730B3B0043475D /* AppDelegate.swift */,
+				FEF525BE2E730B3B0043475D /* ReflexModel.swift */,
+				28D43A702E90C72000D0AFE8 /* ReflexTyadKoeuy.xcframework */,
+				FEE32CF02E75AA3900364333 /* Reflex_VC */,
+				FEF525A32E71BE4A0043475D /* Assets.xcassets */,
+				FEF525A42E71BE4A0043475D /* Info.plist */,
+				FEF525A62E71BE4A0043475D /* LaunchScreen.storyboard */,
+				FEF525A82E71BE4A0043475D /* Main.storyboard */,
+				FEF525A92E71BE4A0043475D /* Reflex.xcdatamodeld */,
+			);
+			path = Reflex;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		FEF525862E71BDF60043475D /* Reflex */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = FEF5259D2E71BDF70043475D /* Build configuration list for PBXNativeTarget "Reflex" */;
+			buildPhases = (
+				05A1F9DBB0DC17977D450208 /* [CP] Check Pods Manifest.lock */,
+				FEF525832E71BDF60043475D /* Sources */,
+				FEF525842E71BDF60043475D /* Frameworks */,
+				FEF525852E71BDF60043475D /* Resources */,
+				1FC08FA5C85C468D39BF4AD8 /* [CP] Embed Pods Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Reflex;
+			productName = Reflex;
+			productReference = FEF525872E71BDF60043475D /* Reflex.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		FEF5257F2E71BDF60043475D /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1630;
+				LastUpgradeCheck = 1630;
+				TargetAttributes = {
+					FEF525862E71BDF60043475D = {
+						CreatedOnToolsVersion = 16.3;
+						LastSwiftMigration = 1630;
+					};
+				};
+			};
+			buildConfigurationList = FEF525822E71BDF60043475D /* Build configuration list for PBXProject "Reflex" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = FEF5257E2E71BDF60043475D;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = FEF525882E71BDF60043475D /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				FEF525862E71BDF60043475D /* Reflex */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		FEF525852E71BDF60043475D /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FEF525AE2E71BE4A0043475D /* Assets.xcassets in Resources */,
+				FEF525B02E71BE4A0043475D /* LaunchScreen.storyboard in Resources */,
+				FEF525B12E71BE4A0043475D /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		05A1F9DBB0DC17977D450208 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-Reflex-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		1FC08FA5C85C468D39BF4AD8 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-Reflex/Pods-Reflex-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-Reflex/Pods-Reflex-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-Reflex/Pods-Reflex-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		FEF525832E71BDF60043475D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FEF525B32E71BE4A0043475D /* Reflex.xcdatamodeld in Sources */,
+				FEF525C22E730B3B0043475D /* MenuVC.swift in Sources */,
+				FEF525C32E730B3B0043475D /* SceneDelegate.swift in Sources */,
+				FEF525C42E730B3B0043475D /* MahjongGameVC.swift in Sources */,
+				FEF525C52E730B3B0043475D /* ScoreVC.swift in Sources */,
+				FEF525C62E730B3B0043475D /* InstructionsVC.swift in Sources */,
+				FEF525C72E730B3B0043475D /* SettingsVC.swift in Sources */,
+				FEF525C82E730B3B0043475D /* ReflexModel.swift in Sources */,
+				FEF525C92E730B3B0043475D /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		FEF525A62E71BE4A0043475D /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				FEF525A52E71BE4A0043475D /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+		FEF525A82E71BE4A0043475D /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				FEF525A72E71BE4A0043475D /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		FEF5259E2E71BDF70043475D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = C5EF930DAEA09C62BE5A88CD /* Pods-Reflex.debug.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				COPY_PHASE_STRIP = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEPLOYMENT_POSTPROCESSING = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = NO;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = Reflex/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "Mahjong Reflex​ ";
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.Reflex.MhsdgFIirsxs;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Debug;
+		};
+		FEF5259F2E71BDF70043475D /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 6D42B108A572567530B4875A /* Pods-Reflex.release.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				COPY_PHASE_STRIP = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEPLOYMENT_POSTPROCESSING = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = NO;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = Reflex/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "Mahjong Reflex​ ";
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.Reflex.MhsdgFIirsxs;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Release;
+		};
+		FEF525A02E71BDF70043475D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.4;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		FEF525A12E71BDF70043475D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.4;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		FEF525822E71BDF60043475D /* Build configuration list for PBXProject "Reflex" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FEF525A02E71BDF70043475D /* Debug */,
+				FEF525A12E71BDF70043475D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		FEF5259D2E71BDF70043475D /* Build configuration list for PBXNativeTarget "Reflex" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FEF5259E2E71BDF70043475D /* Debug */,
+				FEF5259F2E71BDF70043475D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCVersionGroup section */
+		FEF525A92E71BE4A0043475D /* Reflex.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				FEF525AD2E71BE4A0043475D /* Reflex.xcdatamodel */,
+			);
+			currentVersion = FEF525AD2E71BE4A0043475D /* Reflex.xcdatamodel */;
+			path = Reflex.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
+	};
+	rootObject = FEF5257F2E71BDF60043475D /* Project object */;
+}

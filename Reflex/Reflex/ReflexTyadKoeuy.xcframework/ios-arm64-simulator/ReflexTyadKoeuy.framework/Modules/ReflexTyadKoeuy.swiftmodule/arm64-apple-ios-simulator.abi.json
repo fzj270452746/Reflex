@@ -1,0 +1,5213 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "ReflexTyadKoeuy",
+    "printedName": "ReflexTyadKoeuy",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "ReflexTyadKoeuy"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "ReflexBakdiVbeheruMriis",
+        "printedName": "ReflexBakdiVbeheruMriis",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "reflexVgsyeiuMjs",
+            "printedName": "reflexVgsyeiuMjs()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15ReflexTyadKoeuy0A17BakdiVbeheruMriisC16reflexVgsyeiuMjsyyFZ",
+            "mangledName": "$s15ReflexTyadKoeuy0A17BakdiVbeheruMriisC16reflexVgsyeiuMjsyyFZ",
+            "moduleName": "ReflexTyadKoeuy",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "ReflexBakdiVbeheruMriis",
+                "printedName": "ReflexTyadKoeuy.ReflexBakdiVbeheruMriis",
+                "usr": "s:15ReflexTyadKoeuy0A17BakdiVbeheruMriisC"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:15ReflexTyadKoeuy0A17BakdiVbeheruMriisCACycfc",
+            "mangledName": "$s15ReflexTyadKoeuy0A17BakdiVbeheruMriisCACycfc",
+            "moduleName": "ReflexTyadKoeuy",
+            "implicit": true,
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:15ReflexTyadKoeuy0A17BakdiVbeheruMriisC",
+        "mangledName": "$s15ReflexTyadKoeuy0A17BakdiVbeheruMriisC",
+        "moduleName": "ReflexTyadKoeuy",
+        "isOpen": true,
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "hasMissingDesignatedInitializers": true,
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "ReflexTyadKoeuy"
+      },
+      {
+        "kind": "Import",
+        "name": "WebKit",
+        "printedName": "WebKit",
+        "declKind": "Import",
+        "moduleName": "ReflexTyadKoeuy"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "ReflexDoirnsyVgahVC",
+        "printedName": "ReflexDoirnsyVgahVC",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "reflexSIIes",
+            "printedName": "reflexSIIes",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "ReflexTyadKoeuy.ReflexTaoiensRttas?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ReflexTaoiensRttas",
+                    "printedName": "ReflexTyadKoeuy.ReflexTaoiensRttas",
+                    "usr": "s:15ReflexTyadKoeuy0A12TaoiensRttasV"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:15ReflexTyadKoeuy0A13DoirnsyVgahVCC11reflexSIIesAA0A12TaoiensRttasVSgvp",
+            "mangledName": "$s15ReflexTyadKoeuy0A13DoirnsyVgahVCC11reflexSIIesAA0A12TaoiensRttasVSgvp",
+            "moduleName": "ReflexTyadKoeuy",
+            "isOpen": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage"
+            ],
+            "fixedbinaryorder": 0,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "ReflexTyadKoeuy.ReflexTaoiensRttas?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ReflexTaoiensRttas",
+                        "printedName": "ReflexTyadKoeuy.ReflexTaoiensRttas",
+                        "usr": "s:15ReflexTyadKoeuy0A12TaoiensRttasV"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15ReflexTyadKoeuy0A13DoirnsyVgahVCC11reflexSIIesAA0A12TaoiensRttasVSgvg",
+                "mangledName": "$s15ReflexTyadKoeuy0A13DoirnsyVgahVCC11reflexSIIesAA0A12TaoiensRttasVSgvg",
+                "moduleName": "ReflexTyadKoeuy",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "ReflexTyadKoeuy.ReflexTaoiensRttas?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ReflexTaoiensRttas",
+                        "printedName": "ReflexTyadKoeuy.ReflexTaoiensRttas",
+                        "usr": "s:15ReflexTyadKoeuy0A12TaoiensRttasV"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15ReflexTyadKoeuy0A13DoirnsyVgahVCC11reflexSIIesAA0A12TaoiensRttasVSgvs",
+                "mangledName": "$s15ReflexTyadKoeuy0A13DoirnsyVgahVCC11reflexSIIesAA0A12TaoiensRttasVSgvs",
+                "moduleName": "ReflexTyadKoeuy",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15ReflexTyadKoeuy0A13DoirnsyVgahVCC11reflexSIIesAA0A12TaoiensRttasVSgvM",
+                "mangledName": "$s15ReflexTyadKoeuy0A13DoirnsyVgahVCC11reflexSIIesAA0A12TaoiensRttasVSgvM",
+                "moduleName": "ReflexTyadKoeuy",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "reflexJSIuea",
+            "printedName": "reflexJSIuea",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "WebKit.WKWebView?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "WKWebView",
+                    "printedName": "WebKit.WKWebView",
+                    "usr": "c:objc(cs)WKWebView"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:15ReflexTyadKoeuy0A13DoirnsyVgahVCC12reflexJSIueaSo9WKWebViewCSgvp",
+            "mangledName": "$s15ReflexTyadKoeuy0A13DoirnsyVgahVCC12reflexJSIueaSo9WKWebViewCSgvp",
+            "moduleName": "ReflexTyadKoeuy",
+            "isOpen": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage"
+            ],
+            "fixedbinaryorder": 1,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "WebKit.WKWebView?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "WKWebView",
+                        "printedName": "WebKit.WKWebView",
+                        "usr": "c:objc(cs)WKWebView"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15ReflexTyadKoeuy0A13DoirnsyVgahVCC12reflexJSIueaSo9WKWebViewCSgvg",
+                "mangledName": "$s15ReflexTyadKoeuy0A13DoirnsyVgahVCC12reflexJSIueaSo9WKWebViewCSgvg",
+                "moduleName": "ReflexTyadKoeuy",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "WebKit.WKWebView?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "WKWebView",
+                        "printedName": "WebKit.WKWebView",
+                        "usr": "c:objc(cs)WKWebView"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15ReflexTyadKoeuy0A13DoirnsyVgahVCC12reflexJSIueaSo9WKWebViewCSgvs",
+                "mangledName": "$s15ReflexTyadKoeuy0A13DoirnsyVgahVCC12reflexJSIueaSo9WKWebViewCSgvs",
+                "moduleName": "ReflexTyadKoeuy",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15ReflexTyadKoeuy0A13DoirnsyVgahVCC12reflexJSIueaSo9WKWebViewCSgvM",
+                "mangledName": "$s15ReflexTyadKoeuy0A13DoirnsyVgahVCC12reflexJSIueaSo9WKWebViewCSgvM",
+                "moduleName": "ReflexTyadKoeuy",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "viewDidLoad",
+            "printedName": "viewDidLoad()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@ReflexTyadKoeuy@objc(cs)ReflexDoirnsyVgahVC(im)viewDidLoad",
+            "mangledName": "$s15ReflexTyadKoeuy0A13DoirnsyVgahVCC11viewDidLoadyyF",
+            "moduleName": "ReflexTyadKoeuy",
+            "overriding": true,
+            "isOpen": true,
+            "objc_name": "viewDidLoad",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "viewDidLayoutSubviews",
+            "printedName": "viewDidLayoutSubviews()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@ReflexTyadKoeuy@objc(cs)ReflexDoirnsyVgahVC(im)viewDidLayoutSubviews",
+            "mangledName": "$s15ReflexTyadKoeuy0A13DoirnsyVgahVCC21viewDidLayoutSubviewsyyF",
+            "moduleName": "ReflexTyadKoeuy",
+            "overriding": true,
+            "isOpen": true,
+            "objc_name": "viewDidLayoutSubviews",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "webView",
+            "printedName": "webView(_:decidePolicyFor:decisionHandler:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "WKWebView",
+                "printedName": "WebKit.WKWebView",
+                "usr": "c:objc(cs)WKWebView"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "WKNavigationAction",
+                "printedName": "WebKit.WKNavigationAction",
+                "usr": "c:objc(cs)WKNavigationAction"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(WebKit.WKNavigationActionPolicy) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "WKNavigationActionPolicy",
+                    "printedName": "WebKit.WKNavigationActionPolicy",
+                    "usr": "c:@E@WKNavigationActionPolicy"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@ReflexTyadKoeuy@objc(cs)ReflexDoirnsyVgahVC(im)webView:decidePolicyForNavigationAction:decisionHandler:",
+            "mangledName": "$s15ReflexTyadKoeuy0A13DoirnsyVgahVCC7webView_15decidePolicyFor15decisionHandlerySo05WKWebH0C_So18WKNavigationActionCySo0opJ0VctF",
+            "moduleName": "ReflexTyadKoeuy",
+            "isOpen": true,
+            "objc_name": "webView:decidePolicyForNavigationAction:decisionHandler:",
+            "declAttributes": [
+              "ObjC",
+              "Preconcurrency",
+              "Custom"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "webView",
+            "printedName": "webView(_:createWebViewWith:for:windowFeatures:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "WebKit.WKWebView?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "WKWebView",
+                    "printedName": "WebKit.WKWebView",
+                    "usr": "c:objc(cs)WKWebView"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "WKWebView",
+                "printedName": "WebKit.WKWebView",
+                "usr": "c:objc(cs)WKWebView"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "WKWebViewConfiguration",
+                "printedName": "WebKit.WKWebViewConfiguration",
+                "usr": "c:objc(cs)WKWebViewConfiguration"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "WKNavigationAction",
+                "printedName": "WebKit.WKNavigationAction",
+                "usr": "c:objc(cs)WKNavigationAction"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "WKWindowFeatures",
+                "printedName": "WebKit.WKWindowFeatures",
+                "usr": "c:objc(cs)WKWindowFeatures"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@ReflexTyadKoeuy@objc(cs)ReflexDoirnsyVgahVC(im)webView:createWebViewWithConfiguration:forNavigationAction:windowFeatures:",
+            "mangledName": "$s15ReflexTyadKoeuy0A13DoirnsyVgahVCC7webView_09createWebH4With3for14windowFeaturesSo05WKWebH0CSgAI_So0oH13ConfigurationCSo18WKNavigationActionCSo08WKWindowN0CtF",
+            "moduleName": "ReflexTyadKoeuy",
+            "isOpen": true,
+            "objc_name": "webView:createWebViewWithConfiguration:forNavigationAction:windowFeatures:",
+            "declAttributes": [
+              "ObjC",
+              "Preconcurrency",
+              "Custom"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "reflexKeryysaa",
+            "printedName": "reflexKeryysaa(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIButton",
+                "printedName": "UIKit.UIButton",
+                "usr": "c:objc(cs)UIButton"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@ReflexTyadKoeuy@objc(cs)ReflexDoirnsyVgahVC(im)reflexKeryysaa:",
+            "mangledName": "$s15ReflexTyadKoeuy0A13DoirnsyVgahVCC14reflexKeryysaayySo8UIButtonCF",
+            "moduleName": "ReflexTyadKoeuy",
+            "isOpen": true,
+            "declAttributes": [
+              "Preconcurrency",
+              "Custom",
+              "ObjC"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "webViewDidClose",
+            "printedName": "webViewDidClose(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "WKWebView",
+                "printedName": "WebKit.WKWebView",
+                "usr": "c:objc(cs)WKWebView"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@ReflexTyadKoeuy@objc(cs)ReflexDoirnsyVgahVC(im)webViewDidClose:",
+            "mangledName": "$s15ReflexTyadKoeuy0A13DoirnsyVgahVCC15webViewDidCloseyySo05WKWebH0CF",
+            "moduleName": "ReflexTyadKoeuy",
+            "isOpen": true,
+            "objc_name": "webViewDidClose:",
+            "declAttributes": [
+              "ObjC",
+              "Preconcurrency",
+              "Custom"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Var",
+            "name": "shouldAutorotate",
+            "printedName": "shouldAutorotate",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@ReflexTyadKoeuy@objc(cs)ReflexDoirnsyVgahVC(py)shouldAutorotate",
+            "mangledName": "$s15ReflexTyadKoeuy0A13DoirnsyVgahVCC16shouldAutorotateSbvp",
+            "moduleName": "ReflexTyadKoeuy",
+            "overriding": true,
+            "isOpen": true,
+            "objc_name": "shouldAutorotate",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override"
+            ],
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@ReflexTyadKoeuy@objc(cs)ReflexDoirnsyVgahVC(im)shouldAutorotate",
+                "mangledName": "$s15ReflexTyadKoeuy0A13DoirnsyVgahVCC16shouldAutorotateSbvg",
+                "moduleName": "ReflexTyadKoeuy",
+                "overriding": true,
+                "isOpen": true,
+                "objc_name": "shouldAutorotate",
+                "declAttributes": [
+                  "Dynamic",
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "supportedInterfaceOrientations",
+            "printedName": "supportedInterfaceOrientations",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UIInterfaceOrientationMask",
+                "printedName": "UIKit.UIInterfaceOrientationMask",
+                "usr": "c:@E@UIInterfaceOrientationMask"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@ReflexTyadKoeuy@objc(cs)ReflexDoirnsyVgahVC(py)supportedInterfaceOrientations",
+            "mangledName": "$s15ReflexTyadKoeuy0A13DoirnsyVgahVCC30supportedInterfaceOrientationsSo26UIInterfaceOrientationMaskVvp",
+            "moduleName": "ReflexTyadKoeuy",
+            "overriding": true,
+            "isOpen": true,
+            "objc_name": "supportedInterfaceOrientations",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override"
+            ],
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIInterfaceOrientationMask",
+                    "printedName": "UIKit.UIInterfaceOrientationMask",
+                    "usr": "c:@E@UIInterfaceOrientationMask"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@ReflexTyadKoeuy@objc(cs)ReflexDoirnsyVgahVC(im)supportedInterfaceOrientations",
+                "mangledName": "$s15ReflexTyadKoeuy0A13DoirnsyVgahVCC30supportedInterfaceOrientationsSo26UIInterfaceOrientationMaskVvg",
+                "moduleName": "ReflexTyadKoeuy",
+                "overriding": true,
+                "isOpen": true,
+                "objc_name": "supportedInterfaceOrientations",
+                "declAttributes": [
+                  "Dynamic",
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(nibName:bundle:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "ReflexDoirnsyVgahVC",
+                "printedName": "ReflexTyadKoeuy.ReflexDoirnsyVgahVC",
+                "usr": "c:@M@ReflexTyadKoeuy@objc(cs)ReflexDoirnsyVgahVC"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Foundation.Bundle?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bundle",
+                    "printedName": "Foundation.Bundle",
+                    "usr": "c:objc(cs)NSBundle"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@ReflexTyadKoeuy@objc(cs)ReflexDoirnsyVgahVC(im)initWithNibName:bundle:",
+            "mangledName": "$s15ReflexTyadKoeuy0A13DoirnsyVgahVCC7nibName6bundleACSSSg_So8NSBundleCSgtcfc",
+            "moduleName": "ReflexTyadKoeuy",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "initWithNibName:bundle:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(coder:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "ReflexTyadKoeuy.ReflexDoirnsyVgahVC?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ReflexDoirnsyVgahVC",
+                    "printedName": "ReflexTyadKoeuy.ReflexDoirnsyVgahVC",
+                    "usr": "c:@M@ReflexTyadKoeuy@objc(cs)ReflexDoirnsyVgahVC"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "NSCoder",
+                "printedName": "Foundation.NSCoder",
+                "usr": "c:objc(cs)NSCoder"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@ReflexTyadKoeuy@objc(cs)ReflexDoirnsyVgahVC(im)initWithCoder:",
+            "mangledName": "$s15ReflexTyadKoeuy0A13DoirnsyVgahVCC5coderACSgSo7NSCoderC_tcfc",
+            "moduleName": "ReflexTyadKoeuy",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "initWithCoder:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Required"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@ReflexTyadKoeuy@objc(cs)ReflexDoirnsyVgahVC",
+        "mangledName": "$s15ReflexTyadKoeuy0A13DoirnsyVgahVCC",
+        "moduleName": "ReflexTyadKoeuy",
+        "isOpen": true,
+        "declAttributes": [
+          "Preconcurrency",
+          "Custom",
+          "AccessControl",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)UIViewController",
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "UIKit.UIViewController",
+          "UIKit.UIResponder",
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "UITraitChangeObservable",
+            "printedName": "UITraitChangeObservable",
+            "usr": "s:5UIKit23UITraitChangeObservableP",
+            "mangledName": "$s5UIKit23UITraitChangeObservableP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "ReflexNavigationController",
+        "printedName": "ReflexNavigationController",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "viewDidLoad",
+            "printedName": "viewDidLoad()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@ReflexTyadKoeuy@objc(cs)ReflexNavigationController(im)viewDidLoad",
+            "mangledName": "$s15ReflexTyadKoeuy0A20NavigationControllerC11viewDidLoadyyF",
+            "moduleName": "ReflexTyadKoeuy",
+            "overriding": true,
+            "isOpen": true,
+            "objc_name": "viewDidLoad",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Var",
+            "name": "shouldAutorotate",
+            "printedName": "shouldAutorotate",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@ReflexTyadKoeuy@objc(cs)ReflexNavigationController(py)shouldAutorotate",
+            "mangledName": "$s15ReflexTyadKoeuy0A20NavigationControllerC16shouldAutorotateSbvp",
+            "moduleName": "ReflexTyadKoeuy",
+            "overriding": true,
+            "isOpen": true,
+            "objc_name": "shouldAutorotate",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override"
+            ],
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@ReflexTyadKoeuy@objc(cs)ReflexNavigationController(im)shouldAutorotate",
+                "mangledName": "$s15ReflexTyadKoeuy0A20NavigationControllerC16shouldAutorotateSbvg",
+                "moduleName": "ReflexTyadKoeuy",
+                "overriding": true,
+                "isOpen": true,
+                "objc_name": "shouldAutorotate",
+                "declAttributes": [
+                  "Dynamic",
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "supportedInterfaceOrientations",
+            "printedName": "supportedInterfaceOrientations",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UIInterfaceOrientationMask",
+                "printedName": "UIKit.UIInterfaceOrientationMask",
+                "usr": "c:@E@UIInterfaceOrientationMask"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@ReflexTyadKoeuy@objc(cs)ReflexNavigationController(py)supportedInterfaceOrientations",
+            "mangledName": "$s15ReflexTyadKoeuy0A20NavigationControllerC30supportedInterfaceOrientationsSo26UIInterfaceOrientationMaskVvp",
+            "moduleName": "ReflexTyadKoeuy",
+            "overriding": true,
+            "isOpen": true,
+            "objc_name": "supportedInterfaceOrientations",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override"
+            ],
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIInterfaceOrientationMask",
+                    "printedName": "UIKit.UIInterfaceOrientationMask",
+                    "usr": "c:@E@UIInterfaceOrientationMask"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@ReflexTyadKoeuy@objc(cs)ReflexNavigationController(im)supportedInterfaceOrientations",
+                "mangledName": "$s15ReflexTyadKoeuy0A20NavigationControllerC30supportedInterfaceOrientationsSo26UIInterfaceOrientationMaskVvg",
+                "moduleName": "ReflexTyadKoeuy",
+                "overriding": true,
+                "isOpen": true,
+                "objc_name": "supportedInterfaceOrientations",
+                "declAttributes": [
+                  "Dynamic",
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(navigationBarClass:toolbarClass:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "ReflexNavigationController",
+                "printedName": "ReflexTyadKoeuy.ReflexNavigationController",
+                "usr": "c:@M@ReflexTyadKoeuy@objc(cs)ReflexNavigationController"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "(any AnyObject.Type)?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ExistentialMetatype",
+                    "printedName": "any AnyObject.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ProtocolComposition",
+                        "printedName": "AnyObject"
+                      }
+                    ]
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "(any AnyObject.Type)?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ExistentialMetatype",
+                    "printedName": "any AnyObject.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ProtocolComposition",
+                        "printedName": "AnyObject"
+                      }
+                    ]
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@ReflexTyadKoeuy@objc(cs)ReflexNavigationController(im)initWithNavigationBarClass:toolbarClass:",
+            "mangledName": "$s15ReflexTyadKoeuy0A20NavigationControllerC18navigationBarClass07toolbarH0ACyXlXpSg_AFtcfc",
+            "moduleName": "ReflexTyadKoeuy",
+            "overriding": true,
+            "implicit": true,
+            "intro_iOS": "5.0",
+            "objc_name": "initWithNavigationBarClass:toolbarClass:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override",
+              "Available"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(rootViewController:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "ReflexNavigationController",
+                "printedName": "ReflexTyadKoeuy.ReflexNavigationController",
+                "usr": "c:@M@ReflexTyadKoeuy@objc(cs)ReflexNavigationController"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIViewController",
+                "printedName": "UIKit.UIViewController",
+                "usr": "c:objc(cs)UIViewController"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@ReflexTyadKoeuy@objc(cs)ReflexNavigationController(im)initWithRootViewController:",
+            "mangledName": "$s15ReflexTyadKoeuy0A20NavigationControllerC08rootViewE0ACSo06UIViewE0C_tcfc",
+            "moduleName": "ReflexTyadKoeuy",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "initWithRootViewController:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(nibName:bundle:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "ReflexNavigationController",
+                "printedName": "ReflexTyadKoeuy.ReflexNavigationController",
+                "usr": "c:@M@ReflexTyadKoeuy@objc(cs)ReflexNavigationController"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Foundation.Bundle?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bundle",
+                    "printedName": "Foundation.Bundle",
+                    "usr": "c:objc(cs)NSBundle"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@ReflexTyadKoeuy@objc(cs)ReflexNavigationController(im)initWithNibName:bundle:",
+            "mangledName": "$s15ReflexTyadKoeuy0A20NavigationControllerC7nibName6bundleACSSSg_So8NSBundleCSgtcfc",
+            "moduleName": "ReflexTyadKoeuy",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "initWithNibName:bundle:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(coder:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "ReflexTyadKoeuy.ReflexNavigationController?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ReflexNavigationController",
+                    "printedName": "ReflexTyadKoeuy.ReflexNavigationController",
+                    "usr": "c:@M@ReflexTyadKoeuy@objc(cs)ReflexNavigationController"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "NSCoder",
+                "printedName": "Foundation.NSCoder",
+                "usr": "c:objc(cs)NSCoder"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@ReflexTyadKoeuy@objc(cs)ReflexNavigationController(im)initWithCoder:",
+            "mangledName": "$s15ReflexTyadKoeuy0A20NavigationControllerC5coderACSgSo7NSCoderC_tcfc",
+            "moduleName": "ReflexTyadKoeuy",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "initWithCoder:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Required"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@ReflexTyadKoeuy@objc(cs)ReflexNavigationController",
+        "mangledName": "$s15ReflexTyadKoeuy0A20NavigationControllerC",
+        "moduleName": "ReflexTyadKoeuy",
+        "isOpen": true,
+        "declAttributes": [
+          "Preconcurrency",
+          "Custom",
+          "AccessControl",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)UINavigationController",
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "UIKit.UINavigationController",
+          "UIKit.UIViewController",
+          "UIKit.UIResponder",
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "UITraitChangeObservable",
+            "printedName": "UITraitChangeObservable",
+            "usr": "s:5UIKit23UITraitChangeObservableP",
+            "mangledName": "$s5UIKit23UITraitChangeObservableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "ReflexTyadKoeuy"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "ReflexPaperAirplane",
+        "printedName": "ReflexPaperAirplane",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "foldStyle",
+            "printedName": "foldStyle",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:15ReflexTyadKoeuy0A13PaperAirplaneV9foldStyleSSvp",
+            "mangledName": "$s15ReflexTyadKoeuy0A13PaperAirplaneV9foldStyleSSvp",
+            "moduleName": "ReflexTyadKoeuy",
+            "declAttributes": [
+              "HasStorage"
+            ],
+            "fixedbinaryorder": 0,
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15ReflexTyadKoeuy0A13PaperAirplaneV9foldStyleSSvg",
+                "mangledName": "$s15ReflexTyadKoeuy0A13PaperAirplaneV9foldStyleSSvg",
+                "moduleName": "ReflexTyadKoeuy",
+                "implicit": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "speed",
+            "printedName": "speed",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "usr": "s:14CoreFoundation7CGFloatV"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:15ReflexTyadKoeuy0A13PaperAirplaneV5speed14CoreFoundation7CGFloatVvp",
+            "mangledName": "$s15ReflexTyadKoeuy0A13PaperAirplaneV5speed12CoreGraphics7CGFloatVvp",
+            "moduleName": "ReflexTyadKoeuy",
+            "declAttributes": [
+              "HasStorage"
+            ],
+            "fixedbinaryorder": 1,
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "CGFloat",
+                    "printedName": "CoreGraphics.CGFloat",
+                    "usr": "s:14CoreFoundation7CGFloatV"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15ReflexTyadKoeuy0A13PaperAirplaneV5speed14CoreFoundation7CGFloatVvg",
+                "mangledName": "$s15ReflexTyadKoeuy0A13PaperAirplaneV5speed12CoreGraphics7CGFloatVvg",
+                "moduleName": "ReflexTyadKoeuy",
+                "implicit": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "stability",
+            "printedName": "stability",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "usr": "s:14CoreFoundation7CGFloatV"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:15ReflexTyadKoeuy0A13PaperAirplaneV9stability14CoreFoundation7CGFloatVvp",
+            "mangledName": "$s15ReflexTyadKoeuy0A13PaperAirplaneV9stability12CoreGraphics7CGFloatVvp",
+            "moduleName": "ReflexTyadKoeuy",
+            "declAttributes": [
+              "HasStorage"
+            ],
+            "fixedbinaryorder": 2,
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "CGFloat",
+                    "printedName": "CoreGraphics.CGFloat",
+                    "usr": "s:14CoreFoundation7CGFloatV"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15ReflexTyadKoeuy0A13PaperAirplaneV9stability14CoreFoundation7CGFloatVvg",
+                "mangledName": "$s15ReflexTyadKoeuy0A13PaperAirplaneV9stability12CoreGraphics7CGFloatVvg",
+                "moduleName": "ReflexTyadKoeuy",
+                "implicit": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "agility",
+            "printedName": "agility",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "usr": "s:14CoreFoundation7CGFloatV"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:15ReflexTyadKoeuy0A13PaperAirplaneV7agility14CoreFoundation7CGFloatVvp",
+            "mangledName": "$s15ReflexTyadKoeuy0A13PaperAirplaneV7agility12CoreGraphics7CGFloatVvp",
+            "moduleName": "ReflexTyadKoeuy",
+            "declAttributes": [
+              "HasStorage"
+            ],
+            "fixedbinaryorder": 3,
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "CGFloat",
+                    "printedName": "CoreGraphics.CGFloat",
+                    "usr": "s:14CoreFoundation7CGFloatV"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15ReflexTyadKoeuy0A13PaperAirplaneV7agility14CoreFoundation7CGFloatVvg",
+                "mangledName": "$s15ReflexTyadKoeuy0A13PaperAirplaneV7agility12CoreGraphics7CGFloatVvg",
+                "moduleName": "ReflexTyadKoeuy",
+                "implicit": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "distanceMultiplier",
+            "printedName": "distanceMultiplier",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "usr": "s:14CoreFoundation7CGFloatV"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:15ReflexTyadKoeuy0A13PaperAirplaneV18distanceMultiplier14CoreFoundation7CGFloatVvp",
+            "mangledName": "$s15ReflexTyadKoeuy0A13PaperAirplaneV18distanceMultiplier12CoreGraphics7CGFloatVvp",
+            "moduleName": "ReflexTyadKoeuy",
+            "declAttributes": [
+              "HasStorage"
+            ],
+            "fixedbinaryorder": 4,
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "CGFloat",
+                    "printedName": "CoreGraphics.CGFloat",
+                    "usr": "s:14CoreFoundation7CGFloatV"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15ReflexTyadKoeuy0A13PaperAirplaneV18distanceMultiplier14CoreFoundation7CGFloatVvg",
+                "mangledName": "$s15ReflexTyadKoeuy0A13PaperAirplaneV18distanceMultiplier12CoreGraphics7CGFloatVvg",
+                "moduleName": "ReflexTyadKoeuy",
+                "implicit": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(foldStyle:speed:stability:agility:distanceMultiplier:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "ReflexPaperAirplane",
+                "printedName": "ReflexTyadKoeuy.ReflexPaperAirplane",
+                "usr": "s:15ReflexTyadKoeuy0A13PaperAirplaneV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "usr": "s:14CoreFoundation7CGFloatV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "usr": "s:14CoreFoundation7CGFloatV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "usr": "s:14CoreFoundation7CGFloatV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "usr": "s:14CoreFoundation7CGFloatV"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:15ReflexTyadKoeuy0A13PaperAirplaneV9foldStyle5speed9stability7agility18distanceMultiplierACSS_14CoreFoundation7CGFloatVA3Ktcfc",
+            "mangledName": "$s15ReflexTyadKoeuy0A13PaperAirplaneV9foldStyle5speed9stability7agility18distanceMultiplierACSS_12CoreGraphics7CGFloatVA3Ktcfc",
+            "moduleName": "ReflexTyadKoeuy",
+            "implicit": true,
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Struct",
+        "usr": "s:15ReflexTyadKoeuy0A13PaperAirplaneV",
+        "mangledName": "$s15ReflexTyadKoeuy0A13PaperAirplaneV",
+        "moduleName": "ReflexTyadKoeuy",
+        "declAttributes": [
+          "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "ReflexGameConfig",
+        "printedName": "ReflexGameConfig",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "reflexGravity",
+            "printedName": "reflexGravity",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "usr": "s:14CoreFoundation7CGFloatV"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:15ReflexTyadKoeuy0A10GameConfigV13reflexGravity14CoreFoundation7CGFloatVvpZ",
+            "mangledName": "$s15ReflexTyadKoeuy0A10GameConfigV13reflexGravity12CoreGraphics7CGFloatVvpZ",
+            "moduleName": "ReflexTyadKoeuy",
+            "static": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "CGFloat",
+                    "printedName": "CoreGraphics.CGFloat",
+                    "usr": "s:14CoreFoundation7CGFloatV"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15ReflexTyadKoeuy0A10GameConfigV13reflexGravity14CoreFoundation7CGFloatVvgZ",
+                "mangledName": "$s15ReflexTyadKoeuy0A10GameConfigV13reflexGravity12CoreGraphics7CGFloatVvgZ",
+                "moduleName": "ReflexTyadKoeuy",
+                "static": true,
+                "implicit": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "reflexMaxSpeed",
+            "printedName": "reflexMaxSpeed",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "usr": "s:14CoreFoundation7CGFloatV"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:15ReflexTyadKoeuy0A10GameConfigV14reflexMaxSpeed14CoreFoundation7CGFloatVvpZ",
+            "mangledName": "$s15ReflexTyadKoeuy0A10GameConfigV14reflexMaxSpeed12CoreGraphics7CGFloatVvpZ",
+            "moduleName": "ReflexTyadKoeuy",
+            "static": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "CGFloat",
+                    "printedName": "CoreGraphics.CGFloat",
+                    "usr": "s:14CoreFoundation7CGFloatV"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15ReflexTyadKoeuy0A10GameConfigV14reflexMaxSpeed14CoreFoundation7CGFloatVvgZ",
+                "mangledName": "$s15ReflexTyadKoeuy0A10GameConfigV14reflexMaxSpeed12CoreGraphics7CGFloatVvgZ",
+                "moduleName": "ReflexTyadKoeuy",
+                "static": true,
+                "implicit": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "reflexWindForce",
+            "printedName": "reflexWindForce",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "usr": "s:14CoreFoundation7CGFloatV"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:15ReflexTyadKoeuy0A10GameConfigV15reflexWindForce14CoreFoundation7CGFloatVvpZ",
+            "mangledName": "$s15ReflexTyadKoeuy0A10GameConfigV15reflexWindForce12CoreGraphics7CGFloatVvpZ",
+            "moduleName": "ReflexTyadKoeuy",
+            "static": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "CGFloat",
+                    "printedName": "CoreGraphics.CGFloat",
+                    "usr": "s:14CoreFoundation7CGFloatV"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15ReflexTyadKoeuy0A10GameConfigV15reflexWindForce14CoreFoundation7CGFloatVvgZ",
+                "mangledName": "$s15ReflexTyadKoeuy0A10GameConfigV15reflexWindForce12CoreGraphics7CGFloatVvgZ",
+                "moduleName": "ReflexTyadKoeuy",
+                "static": true,
+                "implicit": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "ReflexGameConfig",
+                "printedName": "ReflexTyadKoeuy.ReflexGameConfig",
+                "usr": "s:15ReflexTyadKoeuy0A10GameConfigV"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:15ReflexTyadKoeuy0A10GameConfigVACycfc",
+            "mangledName": "$s15ReflexTyadKoeuy0A10GameConfigVACycfc",
+            "moduleName": "ReflexTyadKoeuy",
+            "implicit": true,
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Struct",
+        "usr": "s:15ReflexTyadKoeuy0A10GameConfigV",
+        "mangledName": "$s15ReflexTyadKoeuy0A10GameConfigV",
+        "moduleName": "ReflexTyadKoeuy",
+        "declAttributes": [
+          "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "BitwiseCopyable",
+            "printedName": "BitwiseCopyable",
+            "usr": "s:s15BitwiseCopyableP",
+            "mangledName": "$ss15BitwiseCopyableP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "ReflexFoldManager",
+        "printedName": "ReflexFoldManager",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "reflexShared",
+            "printedName": "reflexShared",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "ReflexFoldManager",
+                "printedName": "ReflexTyadKoeuy.ReflexFoldManager",
+                "usr": "s:15ReflexTyadKoeuy0A11FoldManagerC"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:15ReflexTyadKoeuy0A11FoldManagerC12reflexSharedACvpZ",
+            "mangledName": "$s15ReflexTyadKoeuy0A11FoldManagerC12reflexSharedACvpZ",
+            "moduleName": "ReflexTyadKoeuy",
+            "static": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "HasStorage"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ReflexFoldManager",
+                    "printedName": "ReflexTyadKoeuy.ReflexFoldManager",
+                    "usr": "s:15ReflexTyadKoeuy0A11FoldManagerC"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15ReflexTyadKoeuy0A11FoldManagerC12reflexSharedACvgZ",
+                "mangledName": "$s15ReflexTyadKoeuy0A11FoldManagerC12reflexSharedACvgZ",
+                "moduleName": "ReflexTyadKoeuy",
+                "static": true,
+                "implicit": true,
+                "declAttributes": [
+                  "Transparent",
+                  "Final"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "reflexFoldStyles",
+            "printedName": "reflexFoldStyles",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Array",
+                "printedName": "[ReflexTyadKoeuy.ReflexPaperAirplane]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ReflexPaperAirplane",
+                    "printedName": "ReflexTyadKoeuy.ReflexPaperAirplane",
+                    "usr": "s:15ReflexTyadKoeuy0A13PaperAirplaneV"
+                  }
+                ],
+                "usr": "s:Sa"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:15ReflexTyadKoeuy0A11FoldManagerC06reflexD6StylesSayAA0A13PaperAirplaneVGvp",
+            "mangledName": "$s15ReflexTyadKoeuy0A11FoldManagerC06reflexD6StylesSayAA0A13PaperAirplaneVGvp",
+            "moduleName": "ReflexTyadKoeuy",
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "HasStorage"
+            ],
+            "fixedbinaryorder": 0,
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Array",
+                    "printedName": "[ReflexTyadKoeuy.ReflexPaperAirplane]",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ReflexPaperAirplane",
+                        "printedName": "ReflexTyadKoeuy.ReflexPaperAirplane",
+                        "usr": "s:15ReflexTyadKoeuy0A13PaperAirplaneV"
+                      }
+                    ],
+                    "usr": "s:Sa"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15ReflexTyadKoeuy0A11FoldManagerC06reflexD6StylesSayAA0A13PaperAirplaneVGvg",
+                "mangledName": "$s15ReflexTyadKoeuy0A11FoldManagerC06reflexD6StylesSayAA0A13PaperAirplaneVGvg",
+                "moduleName": "ReflexTyadKoeuy",
+                "implicit": true,
+                "declAttributes": [
+                  "Transparent",
+                  "Final"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "reflexGetFoldStyle",
+            "printedName": "reflexGetFoldStyle(at:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "ReflexTyadKoeuy.ReflexPaperAirplane?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ReflexPaperAirplane",
+                    "printedName": "ReflexTyadKoeuy.ReflexPaperAirplane",
+                    "usr": "s:15ReflexTyadKoeuy0A13PaperAirplaneV"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15ReflexTyadKoeuy0A11FoldManagerC09reflexGetD5Style2atAA0A13PaperAirplaneVSgSi_tF",
+            "mangledName": "$s15ReflexTyadKoeuy0A11FoldManagerC09reflexGetD5Style2atAA0A13PaperAirplaneVSgSi_tF",
+            "moduleName": "ReflexTyadKoeuy",
+            "isOpen": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "ReflexFoldManager",
+                "printedName": "ReflexTyadKoeuy.ReflexFoldManager",
+                "usr": "s:15ReflexTyadKoeuy0A11FoldManagerC"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:15ReflexTyadKoeuy0A11FoldManagerCACycfc",
+            "mangledName": "$s15ReflexTyadKoeuy0A11FoldManagerCACycfc",
+            "moduleName": "ReflexTyadKoeuy",
+            "implicit": true,
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:15ReflexTyadKoeuy0A11FoldManagerC",
+        "mangledName": "$s15ReflexTyadKoeuy0A11FoldManagerC",
+        "moduleName": "ReflexTyadKoeuy",
+        "isOpen": true,
+        "declAttributes": [
+          "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "ReflexPhysicsEngine",
+        "printedName": "ReflexPhysicsEngine",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "reflexCurrentVelocity",
+            "printedName": "reflexCurrentVelocity",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "CGPoint",
+                "printedName": "CoreFoundation.CGPoint",
+                "usr": "c:@S@CGPoint"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:15ReflexTyadKoeuy0A13PhysicsEngineC21reflexCurrentVelocitySo7CGPointVvp",
+            "mangledName": "$s15ReflexTyadKoeuy0A13PhysicsEngineC21reflexCurrentVelocitySo7CGPointVvp",
+            "moduleName": "ReflexTyadKoeuy",
+            "isOpen": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "fixedbinaryorder": 0,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "CGPoint",
+                    "printedName": "CoreFoundation.CGPoint",
+                    "usr": "c:@S@CGPoint"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15ReflexTyadKoeuy0A13PhysicsEngineC21reflexCurrentVelocitySo7CGPointVvg",
+                "mangledName": "$s15ReflexTyadKoeuy0A13PhysicsEngineC21reflexCurrentVelocitySo7CGPointVvg",
+                "moduleName": "ReflexTyadKoeuy",
+                "implicit": true,
+                "isOpen": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "CGPoint",
+                    "printedName": "CoreFoundation.CGPoint",
+                    "usr": "c:@S@CGPoint"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15ReflexTyadKoeuy0A13PhysicsEngineC21reflexCurrentVelocitySo7CGPointVvs",
+                "mangledName": "$s15ReflexTyadKoeuy0A13PhysicsEngineC21reflexCurrentVelocitySo7CGPointVvs",
+                "moduleName": "ReflexTyadKoeuy",
+                "implicit": true,
+                "isOpen": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15ReflexTyadKoeuy0A13PhysicsEngineC21reflexCurrentVelocitySo7CGPointVvM",
+                "mangledName": "$s15ReflexTyadKoeuy0A13PhysicsEngineC21reflexCurrentVelocitySo7CGPointVvM",
+                "moduleName": "ReflexTyadKoeuy",
+                "implicit": true,
+                "isOpen": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "reflexCurrentPosition",
+            "printedName": "reflexCurrentPosition",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "CGPoint",
+                "printedName": "CoreFoundation.CGPoint",
+                "usr": "c:@S@CGPoint"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:15ReflexTyadKoeuy0A13PhysicsEngineC21reflexCurrentPosition33_8E807F407709825EC9CA7993DB0A88B5LLSo7CGPointVvp",
+            "mangledName": "$s15ReflexTyadKoeuy0A13PhysicsEngineC21reflexCurrentPosition33_8E807F407709825EC9CA7993DB0A88B5LLSo7CGPointVvp",
+            "moduleName": "ReflexTyadKoeuy",
+            "isInternal": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "fixedbinaryorder": 1,
+            "hasStorage": true
+          },
+          {
+            "kind": "Var",
+            "name": "reflexAirplaneProperties",
+            "printedName": "reflexAirplaneProperties",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "ReflexTyadKoeuy.ReflexPaperAirplane?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ReflexPaperAirplane",
+                    "printedName": "ReflexTyadKoeuy.ReflexPaperAirplane",
+                    "usr": "s:15ReflexTyadKoeuy0A13PaperAirplaneV"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:15ReflexTyadKoeuy0A13PhysicsEngineC24reflexAirplaneProperties33_8E807F407709825EC9CA7993DB0A88B5LLAA0a5PaperG0VSgvp",
+            "mangledName": "$s15ReflexTyadKoeuy0A13PhysicsEngineC24reflexAirplaneProperties33_8E807F407709825EC9CA7993DB0A88B5LLAA0a5PaperG0VSgvp",
+            "moduleName": "ReflexTyadKoeuy",
+            "isInternal": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "fixedbinaryorder": 2,
+            "hasStorage": true
+          },
+          {
+            "kind": "Function",
+            "name": "reflexConfigure",
+            "printedName": "reflexConfigure(with:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "ReflexPaperAirplane",
+                "printedName": "ReflexTyadKoeuy.ReflexPaperAirplane",
+                "usr": "s:15ReflexTyadKoeuy0A13PaperAirplaneV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15ReflexTyadKoeuy0A13PhysicsEngineC15reflexConfigure4withyAA0A13PaperAirplaneV_tF",
+            "mangledName": "$s15ReflexTyadKoeuy0A13PhysicsEngineC15reflexConfigure4withyAA0A13PaperAirplaneV_tF",
+            "moduleName": "ReflexTyadKoeuy",
+            "isOpen": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "reflexUpdatePosition",
+            "printedName": "reflexUpdatePosition(with:wind:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "CGPoint",
+                "printedName": "CoreFoundation.CGPoint",
+                "usr": "c:@S@CGPoint"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "usr": "s:14CoreFoundation7CGFloatV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "usr": "s:14CoreFoundation7CGFloatV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15ReflexTyadKoeuy0A13PhysicsEngineC20reflexUpdatePosition4with4windSo7CGPointV14CoreFoundation7CGFloatV_AKtF",
+            "mangledName": "$s15ReflexTyadKoeuy0A13PhysicsEngineC20reflexUpdatePosition4with4windSo7CGPointV12CoreGraphics7CGFloatV_AKtF",
+            "moduleName": "ReflexTyadKoeuy",
+            "isOpen": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "reflexReset",
+            "printedName": "reflexReset()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15ReflexTyadKoeuy0A13PhysicsEngineC11reflexResetyyF",
+            "mangledName": "$s15ReflexTyadKoeuy0A13PhysicsEngineC11reflexResetyyF",
+            "moduleName": "ReflexTyadKoeuy",
+            "isOpen": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "ReflexPhysicsEngine",
+                "printedName": "ReflexTyadKoeuy.ReflexPhysicsEngine",
+                "usr": "s:15ReflexTyadKoeuy0A13PhysicsEngineC"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:15ReflexTyadKoeuy0A13PhysicsEngineCACycfc",
+            "mangledName": "$s15ReflexTyadKoeuy0A13PhysicsEngineCACycfc",
+            "moduleName": "ReflexTyadKoeuy",
+            "implicit": true,
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:15ReflexTyadKoeuy0A13PhysicsEngineC",
+        "mangledName": "$s15ReflexTyadKoeuy0A13PhysicsEngineC",
+        "moduleName": "ReflexTyadKoeuy",
+        "isOpen": true,
+        "declAttributes": [
+          "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "ReflexGameButton",
+        "printedName": "ReflexGameButton",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "reflexGradientLayer",
+            "printedName": "reflexGradientLayer",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "CAGradientLayer",
+                "printedName": "QuartzCore.CAGradientLayer",
+                "usr": "c:objc(cs)CAGradientLayer"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:15ReflexTyadKoeuy0A10GameButtonC19reflexGradientLayer33_8E807F407709825EC9CA7993DB0A88B5LLSo010CAGradientH0Cvp",
+            "mangledName": "$s15ReflexTyadKoeuy0A10GameButtonC19reflexGradientLayer33_8E807F407709825EC9CA7993DB0A88B5LLSo010CAGradientH0Cvp",
+            "moduleName": "ReflexTyadKoeuy",
+            "isInternal": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "fixedbinaryorder": 0,
+            "isLet": true,
+            "hasStorage": true
+          },
+          {
+            "kind": "Var",
+            "name": "reflexShadowLayer",
+            "printedName": "reflexShadowLayer",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "CALayer",
+                "printedName": "QuartzCore.CALayer",
+                "usr": "c:objc(cs)CALayer"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:15ReflexTyadKoeuy0A10GameButtonC17reflexShadowLayer33_8E807F407709825EC9CA7993DB0A88B5LLSo7CALayerCvp",
+            "mangledName": "$s15ReflexTyadKoeuy0A10GameButtonC17reflexShadowLayer33_8E807F407709825EC9CA7993DB0A88B5LLSo7CALayerCvp",
+            "moduleName": "ReflexTyadKoeuy",
+            "isInternal": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "fixedbinaryorder": 1,
+            "isLet": true,
+            "hasStorage": true
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(frame:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "ReflexGameButton",
+                "printedName": "ReflexTyadKoeuy.ReflexGameButton",
+                "usr": "c:@M@ReflexTyadKoeuy@objc(cs)ReflexGameButton"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGRect",
+                "printedName": "CoreFoundation.CGRect",
+                "usr": "c:@S@CGRect"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@ReflexTyadKoeuy@objc(cs)ReflexGameButton(im)initWithFrame:",
+            "mangledName": "$s15ReflexTyadKoeuy0A10GameButtonC5frameACSo6CGRectV_tcfc",
+            "moduleName": "ReflexTyadKoeuy",
+            "overriding": true,
+            "objc_name": "initWithFrame:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(coder:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "ReflexTyadKoeuy.ReflexGameButton?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ReflexGameButton",
+                    "printedName": "ReflexTyadKoeuy.ReflexGameButton",
+                    "usr": "c:@M@ReflexTyadKoeuy@objc(cs)ReflexGameButton"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "NSCoder",
+                "printedName": "Foundation.NSCoder",
+                "usr": "c:objc(cs)NSCoder"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@ReflexTyadKoeuy@objc(cs)ReflexGameButton(im)initWithCoder:",
+            "mangledName": "$s15ReflexTyadKoeuy0A10GameButtonC5coderACSgSo7NSCoderC_tcfc",
+            "moduleName": "ReflexTyadKoeuy",
+            "overriding": true,
+            "objc_name": "initWithCoder:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Required"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "layoutSubviews",
+            "printedName": "layoutSubviews()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@ReflexTyadKoeuy@objc(cs)ReflexGameButton(im)layoutSubviews",
+            "mangledName": "$s15ReflexTyadKoeuy0A10GameButtonC14layoutSubviewsyyF",
+            "moduleName": "ReflexTyadKoeuy",
+            "overriding": true,
+            "isOpen": true,
+            "objc_name": "layoutSubviews",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "reflexAnimatePress",
+            "printedName": "reflexAnimatePress()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15ReflexTyadKoeuy0A10GameButtonC18reflexAnimatePressyyF",
+            "mangledName": "$s15ReflexTyadKoeuy0A10GameButtonC18reflexAnimatePressyyF",
+            "moduleName": "ReflexTyadKoeuy",
+            "isOpen": true,
+            "declAttributes": [
+              "Preconcurrency",
+              "Custom"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@ReflexTyadKoeuy@objc(cs)ReflexGameButton",
+        "mangledName": "$s15ReflexTyadKoeuy0A10GameButtonC",
+        "moduleName": "ReflexTyadKoeuy",
+        "isOpen": true,
+        "declAttributes": [
+          "Preconcurrency",
+          "Custom",
+          "RawDocComment",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)UIButton",
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "UIKit.UIButton",
+          "UIKit.UIControl",
+          "UIKit.UIView",
+          "UIKit.UIResponder",
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "UITraitChangeObservable",
+            "printedName": "UITraitChangeObservable",
+            "usr": "s:5UIKit23UITraitChangeObservableP",
+            "mangledName": "$s5UIKit23UITraitChangeObservableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "__DefaultCustomPlaygroundQuickLookable",
+            "printedName": "__DefaultCustomPlaygroundQuickLookable",
+            "usr": "s:s38__DefaultCustomPlaygroundQuickLookableP",
+            "mangledName": "$ss38__DefaultCustomPlaygroundQuickLookableP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "ReflexGameView",
+        "printedName": "ReflexGameView",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "reflexPhysicsEngine",
+            "printedName": "reflexPhysicsEngine",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "ReflexPhysicsEngine",
+                "printedName": "ReflexTyadKoeuy.ReflexPhysicsEngine",
+                "usr": "s:15ReflexTyadKoeuy0A13PhysicsEngineC"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:15ReflexTyadKoeuy0A8GameViewC19reflexPhysicsEngine33_8E807F407709825EC9CA7993DB0A88B5LLAA0agH0Cvp",
+            "mangledName": "$s15ReflexTyadKoeuy0A8GameViewC19reflexPhysicsEngine33_8E807F407709825EC9CA7993DB0A88B5LLAA0agH0Cvp",
+            "moduleName": "ReflexTyadKoeuy",
+            "isInternal": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "fixedbinaryorder": 0,
+            "isLet": true,
+            "hasStorage": true
+          },
+          {
+            "kind": "Var",
+            "name": "reflexFoldManager",
+            "printedName": "reflexFoldManager",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "ReflexFoldManager",
+                "printedName": "ReflexTyadKoeuy.ReflexFoldManager",
+                "usr": "s:15ReflexTyadKoeuy0A11FoldManagerC"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:15ReflexTyadKoeuy0A8GameViewC17reflexFoldManager33_8E807F407709825EC9CA7993DB0A88B5LLAA0agH0Cvp",
+            "mangledName": "$s15ReflexTyadKoeuy0A8GameViewC17reflexFoldManager33_8E807F407709825EC9CA7993DB0A88B5LLAA0agH0Cvp",
+            "moduleName": "ReflexTyadKoeuy",
+            "isInternal": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "fixedbinaryorder": 1,
+            "isLet": true,
+            "hasStorage": true
+          },
+          {
+            "kind": "Var",
+            "name": "reflexDisplayLink",
+            "printedName": "reflexDisplayLink",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "QuartzCore.CADisplayLink?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "CADisplayLink",
+                    "printedName": "QuartzCore.CADisplayLink",
+                    "usr": "c:objc(cs)CADisplayLink"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:15ReflexTyadKoeuy0A8GameViewC17reflexDisplayLink33_8E807F407709825EC9CA7993DB0A88B5LLSo09CADisplayH0CSgvp",
+            "mangledName": "$s15ReflexTyadKoeuy0A8GameViewC17reflexDisplayLink33_8E807F407709825EC9CA7993DB0A88B5LLSo09CADisplayH0CSgvp",
+            "moduleName": "ReflexTyadKoeuy",
+            "isInternal": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "fixedbinaryorder": 2,
+            "hasStorage": true
+          },
+          {
+            "kind": "Var",
+            "name": "reflexCurrentAirplane",
+            "printedName": "reflexCurrentAirplane",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "ReflexTyadKoeuy.ReflexPaperAirplane?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ReflexPaperAirplane",
+                    "printedName": "ReflexTyadKoeuy.ReflexPaperAirplane",
+                    "usr": "s:15ReflexTyadKoeuy0A13PaperAirplaneV"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:15ReflexTyadKoeuy0A8GameViewC21reflexCurrentAirplane33_8E807F407709825EC9CA7993DB0A88B5LLAA0a5PaperH0VSgvp",
+            "mangledName": "$s15ReflexTyadKoeuy0A8GameViewC21reflexCurrentAirplane33_8E807F407709825EC9CA7993DB0A88B5LLAA0a5PaperH0VSgvp",
+            "moduleName": "ReflexTyadKoeuy",
+            "isInternal": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "fixedbinaryorder": 3,
+            "hasStorage": true
+          },
+          {
+            "kind": "Var",
+            "name": "reflexCurrentFoldIndex",
+            "printedName": "reflexCurrentFoldIndex",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:15ReflexTyadKoeuy0A8GameViewC22reflexCurrentFoldIndex33_8E807F407709825EC9CA7993DB0A88B5LLSivp",
+            "mangledName": "$s15ReflexTyadKoeuy0A8GameViewC22reflexCurrentFoldIndex33_8E807F407709825EC9CA7993DB0A88B5LLSivp",
+            "moduleName": "ReflexTyadKoeuy",
+            "isInternal": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "fixedbinaryorder": 4,
+            "hasStorage": true
+          },
+          {
+            "kind": "Var",
+            "name": "reflexGameState",
+            "printedName": "reflexGameState",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "ReflexGameState",
+                "printedName": "ReflexTyadKoeuy.ReflexGameView.ReflexGameState",
+                "usr": "s:15ReflexTyadKoeuy0A8GameViewC0aD5State33_8E807F407709825EC9CA7993DB0A88B5LLO"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:15ReflexTyadKoeuy0A8GameViewC06reflexD5State33_8E807F407709825EC9CA7993DB0A88B5LLAC0adG0AELLOvp",
+            "mangledName": "$s15ReflexTyadKoeuy0A8GameViewC06reflexD5State33_8E807F407709825EC9CA7993DB0A88B5LLAC0adG0AELLOvp",
+            "moduleName": "ReflexTyadKoeuy",
+            "isInternal": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "fixedbinaryorder": 5,
+            "hasStorage": true
+          },
+          {
+            "kind": "Var",
+            "name": "reflexTitleLabel",
+            "printedName": "reflexTitleLabel",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UILabel",
+                "printedName": "UIKit.UILabel",
+                "usr": "c:objc(cs)UILabel"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:15ReflexTyadKoeuy0A8GameViewC16reflexTitleLabel33_8E807F407709825EC9CA7993DB0A88B5LLSo7UILabelCvp",
+            "mangledName": "$s15ReflexTyadKoeuy0A8GameViewC16reflexTitleLabel33_8E807F407709825EC9CA7993DB0A88B5LLSo7UILabelCvp",
+            "moduleName": "ReflexTyadKoeuy",
+            "isInternal": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "fixedbinaryorder": 6,
+            "isLet": true,
+            "hasStorage": true
+          },
+          {
+            "kind": "Var",
+            "name": "reflexFoldSelectionView",
+            "printedName": "reflexFoldSelectionView",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UIView",
+                "printedName": "UIKit.UIView",
+                "usr": "c:objc(cs)UIView"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:15ReflexTyadKoeuy0A8GameViewC019reflexFoldSelectionE033_8E807F407709825EC9CA7993DB0A88B5LLSo6UIViewCvp",
+            "mangledName": "$s15ReflexTyadKoeuy0A8GameViewC019reflexFoldSelectionE033_8E807F407709825EC9CA7993DB0A88B5LLSo6UIViewCvp",
+            "moduleName": "ReflexTyadKoeuy",
+            "isInternal": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "fixedbinaryorder": 7,
+            "isLet": true,
+            "hasStorage": true
+          },
+          {
+            "kind": "Var",
+            "name": "reflexGameAreaView",
+            "printedName": "reflexGameAreaView",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UIView",
+                "printedName": "UIKit.UIView",
+                "usr": "c:objc(cs)UIView"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:15ReflexTyadKoeuy0A8GameViewC06reflexd4AreaE033_8E807F407709825EC9CA7993DB0A88B5LLSo6UIViewCvp",
+            "mangledName": "$s15ReflexTyadKoeuy0A8GameViewC06reflexd4AreaE033_8E807F407709825EC9CA7993DB0A88B5LLSo6UIViewCvp",
+            "moduleName": "ReflexTyadKoeuy",
+            "isInternal": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "fixedbinaryorder": 8,
+            "isLet": true,
+            "hasStorage": true
+          },
+          {
+            "kind": "Var",
+            "name": "reflexResultsView",
+            "printedName": "reflexResultsView",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UIView",
+                "printedName": "UIKit.UIView",
+                "usr": "c:objc(cs)UIView"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:15ReflexTyadKoeuy0A8GameViewC013reflexResultsE033_8E807F407709825EC9CA7993DB0A88B5LLSo6UIViewCvp",
+            "mangledName": "$s15ReflexTyadKoeuy0A8GameViewC013reflexResultsE033_8E807F407709825EC9CA7993DB0A88B5LLSo6UIViewCvp",
+            "moduleName": "ReflexTyadKoeuy",
+            "isInternal": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "fixedbinaryorder": 9,
+            "isLet": true,
+            "hasStorage": true
+          },
+          {
+            "kind": "Var",
+            "name": "reflexAirplaneImageView",
+            "printedName": "reflexAirplaneImageView",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UIImageView",
+                "printedName": "UIKit.UIImageView",
+                "usr": "c:objc(cs)UIImageView"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:15ReflexTyadKoeuy0A8GameViewC019reflexAirplaneImageE033_8E807F407709825EC9CA7993DB0A88B5LLSo07UIImageE0Cvp",
+            "mangledName": "$s15ReflexTyadKoeuy0A8GameViewC019reflexAirplaneImageE033_8E807F407709825EC9CA7993DB0A88B5LLSo07UIImageE0Cvp",
+            "moduleName": "ReflexTyadKoeuy",
+            "isInternal": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "fixedbinaryorder": 10,
+            "isLet": true,
+            "hasStorage": true
+          },
+          {
+            "kind": "Var",
+            "name": "reflexBackgroundView",
+            "printedName": "reflexBackgroundView",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UIImageView",
+                "printedName": "UIKit.UIImageView",
+                "usr": "c:objc(cs)UIImageView"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:15ReflexTyadKoeuy0A8GameViewC016reflexBackgroundE033_8E807F407709825EC9CA7993DB0A88B5LLSo07UIImageE0Cvp",
+            "mangledName": "$s15ReflexTyadKoeuy0A8GameViewC016reflexBackgroundE033_8E807F407709825EC9CA7993DB0A88B5LLSo07UIImageE0Cvp",
+            "moduleName": "ReflexTyadKoeuy",
+            "isInternal": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "fixedbinaryorder": 11,
+            "isLet": true,
+            "hasStorage": true
+          },
+          {
+            "kind": "Var",
+            "name": "reflexFoldButtons",
+            "printedName": "reflexFoldButtons",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Array",
+                "printedName": "[ReflexTyadKoeuy.ReflexGameButton]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ReflexGameButton",
+                    "printedName": "ReflexTyadKoeuy.ReflexGameButton",
+                    "usr": "c:@M@ReflexTyadKoeuy@objc(cs)ReflexGameButton"
+                  }
+                ],
+                "usr": "s:Sa"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:15ReflexTyadKoeuy0A8GameViewC17reflexFoldButtons33_8E807F407709825EC9CA7993DB0A88B5LLSayAA0aD6ButtonCGvp",
+            "mangledName": "$s15ReflexTyadKoeuy0A8GameViewC17reflexFoldButtons33_8E807F407709825EC9CA7993DB0A88B5LLSayAA0aD6ButtonCGvp",
+            "moduleName": "ReflexTyadKoeuy",
+            "isInternal": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "fixedbinaryorder": 12,
+            "hasStorage": true
+          },
+          {
+            "kind": "Var",
+            "name": "reflexRestartButton",
+            "printedName": "reflexRestartButton",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "ImplicitlyUnwrappedOptional",
+                "printedName": "ReflexTyadKoeuy.ReflexGameButton?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ReflexGameButton",
+                    "printedName": "ReflexTyadKoeuy.ReflexGameButton",
+                    "usr": "c:@M@ReflexTyadKoeuy@objc(cs)ReflexGameButton"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:15ReflexTyadKoeuy0A8GameViewC19reflexRestartButton33_8E807F407709825EC9CA7993DB0A88B5LLAA0adH0CSgvp",
+            "mangledName": "$s15ReflexTyadKoeuy0A8GameViewC19reflexRestartButton33_8E807F407709825EC9CA7993DB0A88B5LLAA0adH0CSgvp",
+            "moduleName": "ReflexTyadKoeuy",
+            "isInternal": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "fixedbinaryorder": 13,
+            "hasStorage": true
+          },
+          {
+            "kind": "Var",
+            "name": "reflexScoreLabel",
+            "printedName": "reflexScoreLabel",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "ImplicitlyUnwrappedOptional",
+                "printedName": "UIKit.UILabel?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UILabel",
+                    "printedName": "UIKit.UILabel",
+                    "usr": "c:objc(cs)UILabel"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:15ReflexTyadKoeuy0A8GameViewC16reflexScoreLabel33_8E807F407709825EC9CA7993DB0A88B5LLSo7UILabelCSgvp",
+            "mangledName": "$s15ReflexTyadKoeuy0A8GameViewC16reflexScoreLabel33_8E807F407709825EC9CA7993DB0A88B5LLSo7UILabelCSgvp",
+            "moduleName": "ReflexTyadKoeuy",
+            "isInternal": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "fixedbinaryorder": 14,
+            "hasStorage": true
+          },
+          {
+            "kind": "Var",
+            "name": "reflexDistanceLabel",
+            "printedName": "reflexDistanceLabel",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "ImplicitlyUnwrappedOptional",
+                "printedName": "UIKit.UILabel?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UILabel",
+                    "printedName": "UIKit.UILabel",
+                    "usr": "c:objc(cs)UILabel"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:15ReflexTyadKoeuy0A8GameViewC19reflexDistanceLabel33_8E807F407709825EC9CA7993DB0A88B5LLSo7UILabelCSgvp",
+            "mangledName": "$s15ReflexTyadKoeuy0A8GameViewC19reflexDistanceLabel33_8E807F407709825EC9CA7993DB0A88B5LLSo7UILabelCSgvp",
+            "moduleName": "ReflexTyadKoeuy",
+            "isInternal": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "fixedbinaryorder": 15,
+            "hasStorage": true
+          },
+          {
+            "kind": "Var",
+            "name": "reflexCurrentScore",
+            "printedName": "reflexCurrentScore",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:15ReflexTyadKoeuy0A8GameViewC18reflexCurrentScore33_8E807F407709825EC9CA7993DB0A88B5LLSivp",
+            "mangledName": "$s15ReflexTyadKoeuy0A8GameViewC18reflexCurrentScore33_8E807F407709825EC9CA7993DB0A88B5LLSivp",
+            "moduleName": "ReflexTyadKoeuy",
+            "isInternal": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "fixedbinaryorder": 16,
+            "hasStorage": true
+          },
+          {
+            "kind": "Var",
+            "name": "reflexCurrentDistance",
+            "printedName": "reflexCurrentDistance",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "usr": "s:14CoreFoundation7CGFloatV"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:15ReflexTyadKoeuy0A8GameViewC21reflexCurrentDistance33_8E807F407709825EC9CA7993DB0A88B5LL14CoreFoundation7CGFloatVvp",
+            "mangledName": "$s15ReflexTyadKoeuy0A8GameViewC21reflexCurrentDistance33_8E807F407709825EC9CA7993DB0A88B5LL12CoreGraphics7CGFloatVvp",
+            "moduleName": "ReflexTyadKoeuy",
+            "isInternal": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "fixedbinaryorder": 17,
+            "hasStorage": true
+          },
+          {
+            "kind": "Var",
+            "name": "reflexGameTime",
+            "printedName": "reflexGameTime",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "usr": "s:14CoreFoundation7CGFloatV"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:15ReflexTyadKoeuy0A8GameViewC06reflexD4Time33_8E807F407709825EC9CA7993DB0A88B5LL14CoreFoundation7CGFloatVvp",
+            "mangledName": "$s15ReflexTyadKoeuy0A8GameViewC06reflexD4Time33_8E807F407709825EC9CA7993DB0A88B5LL12CoreGraphics7CGFloatVvp",
+            "moduleName": "ReflexTyadKoeuy",
+            "isInternal": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "fixedbinaryorder": 18,
+            "hasStorage": true
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(frame:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "ReflexGameView",
+                "printedName": "ReflexTyadKoeuy.ReflexGameView",
+                "usr": "c:@M@ReflexTyadKoeuy@objc(cs)ReflexGameView"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGRect",
+                "printedName": "CoreFoundation.CGRect",
+                "usr": "c:@S@CGRect"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@ReflexTyadKoeuy@objc(cs)ReflexGameView(im)initWithFrame:",
+            "mangledName": "$s15ReflexTyadKoeuy0A8GameViewC5frameACSo6CGRectV_tcfc",
+            "moduleName": "ReflexTyadKoeuy",
+            "overriding": true,
+            "objc_name": "initWithFrame:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(coder:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "ReflexTyadKoeuy.ReflexGameView?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ReflexGameView",
+                    "printedName": "ReflexTyadKoeuy.ReflexGameView",
+                    "usr": "c:@M@ReflexTyadKoeuy@objc(cs)ReflexGameView"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "NSCoder",
+                "printedName": "Foundation.NSCoder",
+                "usr": "c:objc(cs)NSCoder"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@ReflexTyadKoeuy@objc(cs)ReflexGameView(im)initWithCoder:",
+            "mangledName": "$s15ReflexTyadKoeuy0A8GameViewC5coderACSgSo7NSCoderC_tcfc",
+            "moduleName": "ReflexTyadKoeuy",
+            "overriding": true,
+            "objc_name": "initWithCoder:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Required"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "layoutSubviews",
+            "printedName": "layoutSubviews()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@ReflexTyadKoeuy@objc(cs)ReflexGameView(im)layoutSubviews",
+            "mangledName": "$s15ReflexTyadKoeuy0A8GameViewC14layoutSubviewsyyF",
+            "moduleName": "ReflexTyadKoeuy",
+            "overriding": true,
+            "isOpen": true,
+            "objc_name": "layoutSubviews",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@ReflexTyadKoeuy@objc(cs)ReflexGameView",
+        "mangledName": "$s15ReflexTyadKoeuy0A8GameViewC",
+        "moduleName": "ReflexTyadKoeuy",
+        "isOpen": true,
+        "declAttributes": [
+          "Preconcurrency",
+          "Custom",
+          "RawDocComment",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)UIView",
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "UIKit.UIView",
+          "UIKit.UIResponder",
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "UITraitChangeObservable",
+            "printedName": "UITraitChangeObservable",
+            "usr": "s:5UIKit23UITraitChangeObservableP",
+            "mangledName": "$s5UIKit23UITraitChangeObservableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "__DefaultCustomPlaygroundQuickLookable",
+            "printedName": "__DefaultCustomPlaygroundQuickLookable",
+            "usr": "s:s38__DefaultCustomPlaygroundQuickLookableP",
+            "mangledName": "$ss38__DefaultCustomPlaygroundQuickLookableP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "ReflexViewController",
+        "printedName": "ReflexViewController",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "reflexGameView",
+            "printedName": "reflexGameView",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "ImplicitlyUnwrappedOptional",
+                "printedName": "ReflexTyadKoeuy.ReflexGameView?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ReflexGameView",
+                    "printedName": "ReflexTyadKoeuy.ReflexGameView",
+                    "usr": "c:@M@ReflexTyadKoeuy@objc(cs)ReflexGameView"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:15ReflexTyadKoeuy0A14ViewControllerC010reflexGameD033_8E807F407709825EC9CA7993DB0A88B5LLAA0agD0CSgvp",
+            "mangledName": "$s15ReflexTyadKoeuy0A14ViewControllerC010reflexGameD033_8E807F407709825EC9CA7993DB0A88B5LLAA0agD0CSgvp",
+            "moduleName": "ReflexTyadKoeuy",
+            "isInternal": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "fixedbinaryorder": 0,
+            "hasStorage": true
+          },
+          {
+            "kind": "Function",
+            "name": "viewDidLoad",
+            "printedName": "viewDidLoad()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@ReflexTyadKoeuy@objc(cs)ReflexViewController(im)viewDidLoad",
+            "mangledName": "$s15ReflexTyadKoeuy0A14ViewControllerC11viewDidLoadyyF",
+            "moduleName": "ReflexTyadKoeuy",
+            "overriding": true,
+            "isOpen": true,
+            "objc_name": "viewDidLoad",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "viewDidLayoutSubviews",
+            "printedName": "viewDidLayoutSubviews()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@ReflexTyadKoeuy@objc(cs)ReflexViewController(im)viewDidLayoutSubviews",
+            "mangledName": "$s15ReflexTyadKoeuy0A14ViewControllerC21viewDidLayoutSubviewsyyF",
+            "moduleName": "ReflexTyadKoeuy",
+            "overriding": true,
+            "isOpen": true,
+            "objc_name": "viewDidLayoutSubviews",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(nibName:bundle:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "ReflexViewController",
+                "printedName": "ReflexTyadKoeuy.ReflexViewController",
+                "usr": "c:@M@ReflexTyadKoeuy@objc(cs)ReflexViewController"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Foundation.Bundle?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bundle",
+                    "printedName": "Foundation.Bundle",
+                    "usr": "c:objc(cs)NSBundle"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@ReflexTyadKoeuy@objc(cs)ReflexViewController(im)initWithNibName:bundle:",
+            "mangledName": "$s15ReflexTyadKoeuy0A14ViewControllerC7nibName6bundleACSSSg_So8NSBundleCSgtcfc",
+            "moduleName": "ReflexTyadKoeuy",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "initWithNibName:bundle:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(coder:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "ReflexTyadKoeuy.ReflexViewController?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ReflexViewController",
+                    "printedName": "ReflexTyadKoeuy.ReflexViewController",
+                    "usr": "c:@M@ReflexTyadKoeuy@objc(cs)ReflexViewController"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "NSCoder",
+                "printedName": "Foundation.NSCoder",
+                "usr": "c:objc(cs)NSCoder"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@ReflexTyadKoeuy@objc(cs)ReflexViewController(im)initWithCoder:",
+            "mangledName": "$s15ReflexTyadKoeuy0A14ViewControllerC5coderACSgSo7NSCoderC_tcfc",
+            "moduleName": "ReflexTyadKoeuy",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "initWithCoder:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Required"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@ReflexTyadKoeuy@objc(cs)ReflexViewController",
+        "mangledName": "$s15ReflexTyadKoeuy0A14ViewControllerC",
+        "moduleName": "ReflexTyadKoeuy",
+        "isOpen": true,
+        "declAttributes": [
+          "Preconcurrency",
+          "Custom",
+          "RawDocComment",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)UIViewController",
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "UIKit.UIViewController",
+          "UIKit.UIResponder",
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "UITraitChangeObservable",
+            "printedName": "UITraitChangeObservable",
+            "usr": "s:5UIKit23UITraitChangeObservableP",
+            "mangledName": "$s5UIKit23UITraitChangeObservableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "ReflexGameAlert",
+        "printedName": "ReflexGameAlert",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "reflexTitleLabel",
+            "printedName": "reflexTitleLabel",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UILabel",
+                "printedName": "UIKit.UILabel",
+                "usr": "c:objc(cs)UILabel"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:15ReflexTyadKoeuy0A9GameAlertC16reflexTitleLabel33_8E807F407709825EC9CA7993DB0A88B5LLSo7UILabelCvp",
+            "mangledName": "$s15ReflexTyadKoeuy0A9GameAlertC16reflexTitleLabel33_8E807F407709825EC9CA7993DB0A88B5LLSo7UILabelCvp",
+            "moduleName": "ReflexTyadKoeuy",
+            "isInternal": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "fixedbinaryorder": 0,
+            "isLet": true,
+            "hasStorage": true
+          },
+          {
+            "kind": "Var",
+            "name": "reflexMessageLabel",
+            "printedName": "reflexMessageLabel",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UILabel",
+                "printedName": "UIKit.UILabel",
+                "usr": "c:objc(cs)UILabel"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:15ReflexTyadKoeuy0A9GameAlertC18reflexMessageLabel33_8E807F407709825EC9CA7993DB0A88B5LLSo7UILabelCvp",
+            "mangledName": "$s15ReflexTyadKoeuy0A9GameAlertC18reflexMessageLabel33_8E807F407709825EC9CA7993DB0A88B5LLSo7UILabelCvp",
+            "moduleName": "ReflexTyadKoeuy",
+            "isInternal": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "fixedbinaryorder": 1,
+            "isLet": true,
+            "hasStorage": true
+          },
+          {
+            "kind": "Var",
+            "name": "reflexOkButton",
+            "printedName": "reflexOkButton",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "ReflexGameButton",
+                "printedName": "ReflexTyadKoeuy.ReflexGameButton",
+                "usr": "c:@M@ReflexTyadKoeuy@objc(cs)ReflexGameButton"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:15ReflexTyadKoeuy0A9GameAlertC14reflexOkButton33_8E807F407709825EC9CA7993DB0A88B5LLAA0adH0Cvp",
+            "mangledName": "$s15ReflexTyadKoeuy0A9GameAlertC14reflexOkButton33_8E807F407709825EC9CA7993DB0A88B5LLAA0adH0Cvp",
+            "moduleName": "ReflexTyadKoeuy",
+            "isInternal": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "fixedbinaryorder": 2,
+            "isLet": true,
+            "hasStorage": true
+          },
+          {
+            "kind": "Var",
+            "name": "reflexContainerView",
+            "printedName": "reflexContainerView",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UIView",
+                "printedName": "UIKit.UIView",
+                "usr": "c:objc(cs)UIView"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:15ReflexTyadKoeuy0A9GameAlertC19reflexContainerView33_8E807F407709825EC9CA7993DB0A88B5LLSo6UIViewCvp",
+            "mangledName": "$s15ReflexTyadKoeuy0A9GameAlertC19reflexContainerView33_8E807F407709825EC9CA7993DB0A88B5LLSo6UIViewCvp",
+            "moduleName": "ReflexTyadKoeuy",
+            "isInternal": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "fixedbinaryorder": 3,
+            "isLet": true,
+            "hasStorage": true
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(frame:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "ReflexGameAlert",
+                "printedName": "ReflexTyadKoeuy.ReflexGameAlert",
+                "usr": "c:@M@ReflexTyadKoeuy@objc(cs)ReflexGameAlert"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGRect",
+                "printedName": "CoreFoundation.CGRect",
+                "usr": "c:@S@CGRect"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@ReflexTyadKoeuy@objc(cs)ReflexGameAlert(im)initWithFrame:",
+            "mangledName": "$s15ReflexTyadKoeuy0A9GameAlertC5frameACSo6CGRectV_tcfc",
+            "moduleName": "ReflexTyadKoeuy",
+            "overriding": true,
+            "objc_name": "initWithFrame:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(coder:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "ReflexTyadKoeuy.ReflexGameAlert?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ReflexGameAlert",
+                    "printedName": "ReflexTyadKoeuy.ReflexGameAlert",
+                    "usr": "c:@M@ReflexTyadKoeuy@objc(cs)ReflexGameAlert"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "NSCoder",
+                "printedName": "Foundation.NSCoder",
+                "usr": "c:objc(cs)NSCoder"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@ReflexTyadKoeuy@objc(cs)ReflexGameAlert(im)initWithCoder:",
+            "mangledName": "$s15ReflexTyadKoeuy0A9GameAlertC5coderACSgSo7NSCoderC_tcfc",
+            "moduleName": "ReflexTyadKoeuy",
+            "overriding": true,
+            "objc_name": "initWithCoder:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Required"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "reflexShow",
+            "printedName": "reflexShow(in:title:message:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIView",
+                "printedName": "UIKit.UIView",
+                "usr": "c:objc(cs)UIView"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15ReflexTyadKoeuy0A9GameAlertC10reflexShow2in5title7messageySo6UIViewC_S2StF",
+            "mangledName": "$s15ReflexTyadKoeuy0A9GameAlertC10reflexShow2in5title7messageySo6UIViewC_S2StF",
+            "moduleName": "ReflexTyadKoeuy",
+            "isOpen": true,
+            "declAttributes": [
+              "Preconcurrency",
+              "Custom"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@ReflexTyadKoeuy@objc(cs)ReflexGameAlert",
+        "mangledName": "$s15ReflexTyadKoeuy0A9GameAlertC",
+        "moduleName": "ReflexTyadKoeuy",
+        "isOpen": true,
+        "declAttributes": [
+          "Preconcurrency",
+          "Custom",
+          "RawDocComment",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)UIView",
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "UIKit.UIView",
+          "UIKit.UIResponder",
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "UITraitChangeObservable",
+            "printedName": "UITraitChangeObservable",
+            "usr": "s:5UIKit23UITraitChangeObservableP",
+            "mangledName": "$s5UIKit23UITraitChangeObservableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "__DefaultCustomPlaygroundQuickLookable",
+            "printedName": "__DefaultCustomPlaygroundQuickLookable",
+            "usr": "s:s38__DefaultCustomPlaygroundQuickLookableP",
+            "mangledName": "$ss38__DefaultCustomPlaygroundQuickLookableP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ReflexTyadKoeuy"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "ReflexTyadKoeuy"
+      },
+      {
+        "kind": "Function",
+        "name": "ReflexHdudaJosa",
+        "printedName": "ReflexHdudaJosa(_:)",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "Optional",
+            "printedName": "Swift.String?",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "usr": "s:Sq"
+          },
+          {
+            "kind": "TypeNominal",
+            "name": "String",
+            "printedName": "Swift.String",
+            "usr": "s:SS"
+          }
+        ],
+        "declKind": "Func",
+        "usr": "s:15ReflexTyadKoeuy0A9HdudaJosaySSSgSSF",
+        "mangledName": "$s15ReflexTyadKoeuy0A9HdudaJosaySSSgSSF",
+        "moduleName": "ReflexTyadKoeuy",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "funcSelfKind": "NonMutating"
+      },
+      {
+        "kind": "Var",
+        "name": "kReflexFgyriuCssa",
+        "printedName": "kReflexFgyriuCssa",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "String",
+            "printedName": "Swift.String",
+            "usr": "s:SS"
+          }
+        ],
+        "declKind": "Var",
+        "usr": "s:15ReflexTyadKoeuy01kA10FgyriuCssaSSvp",
+        "mangledName": "$s15ReflexTyadKoeuy01kA10FgyriuCssaSSvp",
+        "moduleName": "ReflexTyadKoeuy",
+        "declAttributes": [
+          "HasInitialValue",
+          "HasStorage",
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "isLet": true,
+        "hasStorage": true
+      },
+      {
+        "kind": "Function",
+        "name": "ReflexSoriueht",
+        "printedName": "ReflexSoriueht()",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "Void",
+            "printedName": "()"
+          }
+        ],
+        "declKind": "Func",
+        "usr": "s:15ReflexTyadKoeuy0A8SoriuehtyyF",
+        "mangledName": "$s15ReflexTyadKoeuy0A8SoriuehtyyF",
+        "moduleName": "ReflexTyadKoeuy",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "funcSelfKind": "NonMutating"
+      },
+      {
+        "kind": "Function",
+        "name": "ReflexDaoriNhryeu",
+        "printedName": "ReflexDaoriNhryeu()",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "Void",
+            "printedName": "()"
+          }
+        ],
+        "declKind": "Func",
+        "usr": "s:15ReflexTyadKoeuy0A11DaoriNhryeuyyF",
+        "mangledName": "$s15ReflexTyadKoeuy0A11DaoriNhryeuyyF",
+        "moduleName": "ReflexTyadKoeuy",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "funcSelfKind": "NonMutating"
+      },
+      {
+        "kind": "Function",
+        "name": "ReflexMorikshTtsa",
+        "printedName": "ReflexMorikshTtsa()",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "Void",
+            "printedName": "()"
+          }
+        ],
+        "declKind": "Func",
+        "usr": "s:15ReflexTyadKoeuy0A11MorikshTtsayyF",
+        "mangledName": "$s15ReflexTyadKoeuy0A11MorikshTtsayyF",
+        "moduleName": "ReflexTyadKoeuy",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "funcSelfKind": "NonMutating"
+      },
+      {
+        "kind": "Function",
+        "name": "ReflexXksdsiZZOo",
+        "printedName": "ReflexXksdsiZZOo()",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "Void",
+            "printedName": "()"
+          }
+        ],
+        "declKind": "Func",
+        "usr": "s:15ReflexTyadKoeuy0A10XksdsiZZOoyyF",
+        "mangledName": "$s15ReflexTyadKoeuy0A10XksdsiZZOoyyF",
+        "moduleName": "ReflexTyadKoeuy",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "funcSelfKind": "NonMutating"
+      },
+      {
+        "kind": "Function",
+        "name": "ReflexFSoeiujsTrts",
+        "printedName": "ReflexFSoeiujsTrts(_:)",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "Void",
+            "printedName": "()"
+          },
+          {
+            "kind": "TypeNominal",
+            "name": "ReflexTaoiensRttas",
+            "printedName": "ReflexTyadKoeuy.ReflexTaoiensRttas",
+            "usr": "s:15ReflexTyadKoeuy0A12TaoiensRttasV"
+          }
+        ],
+        "declKind": "Func",
+        "usr": "s:15ReflexTyadKoeuy0A12FSoeiujsTrtsyyAA0A12TaoiensRttasVF",
+        "mangledName": "$s15ReflexTyadKoeuy0A12FSoeiujsTrtsyyAA0A12TaoiensRttasVF",
+        "moduleName": "ReflexTyadKoeuy",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "funcSelfKind": "NonMutating"
+      },
+      {
+        "kind": "Function",
+        "name": "ReflexTrrysjkskLKksa",
+        "printedName": "ReflexTrrysjkskLKksa(_:)",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "Void",
+            "printedName": "()"
+          },
+          {
+            "kind": "TypeNominal",
+            "name": "ReflexTaoiensRttas",
+            "printedName": "ReflexTyadKoeuy.ReflexTaoiensRttas",
+            "usr": "s:15ReflexTyadKoeuy0A12TaoiensRttasV"
+          }
+        ],
+        "declKind": "Func",
+        "usr": "s:15ReflexTyadKoeuy0A14TrrysjkskLKksayyAA0A12TaoiensRttasVF",
+        "mangledName": "$s15ReflexTyadKoeuy0A14TrrysjkskLKksayyAA0A12TaoiensRttasVF",
+        "moduleName": "ReflexTyadKoeuy",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "funcSelfKind": "NonMutating"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "ReflexTaoiensRttas",
+        "printedName": "ReflexTaoiensRttas",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "reflexDgaao",
+            "printedName": "reflexDgaao",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:15ReflexTyadKoeuy0A12TaoiensRttasV11reflexDgaaoSSSgvp",
+            "mangledName": "$s15ReflexTyadKoeuy0A12TaoiensRttasV11reflexDgaaoSSSgvp",
+            "moduleName": "ReflexTyadKoeuy",
+            "declAttributes": [
+              "HasStorage"
+            ],
+            "fixedbinaryorder": 0,
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15ReflexTyadKoeuy0A12TaoiensRttasV11reflexDgaaoSSSgvg",
+                "mangledName": "$s15ReflexTyadKoeuy0A12TaoiensRttasV11reflexDgaaoSSSgvg",
+                "moduleName": "ReflexTyadKoeuy",
+                "implicit": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "reflexOiueyt",
+            "printedName": "reflexOiueyt",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:15ReflexTyadKoeuy0A12TaoiensRttasV12reflexOiueytSSSgvp",
+            "mangledName": "$s15ReflexTyadKoeuy0A12TaoiensRttasV12reflexOiueytSSSgvp",
+            "moduleName": "ReflexTyadKoeuy",
+            "declAttributes": [
+              "HasStorage",
+              "RawDocComment"
+            ],
+            "fixedbinaryorder": 1,
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15ReflexTyadKoeuy0A12TaoiensRttasV12reflexOiueytSSSgvg",
+                "mangledName": "$s15ReflexTyadKoeuy0A12TaoiensRttasV12reflexOiueytSSSgvg",
+                "moduleName": "ReflexTyadKoeuy",
+                "implicit": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "reflexFiauen",
+            "printedName": "reflexFiauen",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:15ReflexTyadKoeuy0A12TaoiensRttasV12reflexFiauenSSSgvp",
+            "mangledName": "$s15ReflexTyadKoeuy0A12TaoiensRttasV12reflexFiauenSSSgvp",
+            "moduleName": "ReflexTyadKoeuy",
+            "declAttributes": [
+              "HasStorage",
+              "RawDocComment"
+            ],
+            "fixedbinaryorder": 2,
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15ReflexTyadKoeuy0A12TaoiensRttasV12reflexFiauenSSSgvg",
+                "mangledName": "$s15ReflexTyadKoeuy0A12TaoiensRttasV12reflexFiauenSSSgvg",
+                "moduleName": "ReflexTyadKoeuy",
+                "implicit": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "reflexXiruuMasl",
+            "printedName": "reflexXiruuMasl",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:15ReflexTyadKoeuy0A12TaoiensRttasV15reflexXiruuMaslSSSgvp",
+            "mangledName": "$s15ReflexTyadKoeuy0A12TaoiensRttasV15reflexXiruuMaslSSSgvp",
+            "moduleName": "ReflexTyadKoeuy",
+            "declAttributes": [
+              "HasStorage",
+              "RawDocComment"
+            ],
+            "fixedbinaryorder": 3,
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15ReflexTyadKoeuy0A12TaoiensRttasV15reflexXiruuMaslSSSgvg",
+                "mangledName": "$s15ReflexTyadKoeuy0A12TaoiensRttasV15reflexXiruuMaslSSSgvg",
+                "moduleName": "ReflexTyadKoeuy",
+                "implicit": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "reflexRoirmh",
+            "printedName": "reflexRoirmh",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:15ReflexTyadKoeuy0A12TaoiensRttasV12reflexRoirmhSSSgvp",
+            "mangledName": "$s15ReflexTyadKoeuy0A12TaoiensRttasV12reflexRoirmhSSSgvp",
+            "moduleName": "ReflexTyadKoeuy",
+            "declAttributes": [
+              "HasStorage"
+            ],
+            "fixedbinaryorder": 4,
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15ReflexTyadKoeuy0A12TaoiensRttasV12reflexRoirmhSSSgvg",
+                "mangledName": "$s15ReflexTyadKoeuy0A12TaoiensRttasV12reflexRoirmhSSSgvg",
+                "moduleName": "ReflexTyadKoeuy",
+                "implicit": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(reflexDgaao:reflexOiueyt:reflexFiauen:reflexXiruuMasl:reflexRoirmh:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "ReflexTaoiensRttas",
+                "printedName": "ReflexTyadKoeuy.ReflexTaoiensRttas",
+                "usr": "s:15ReflexTyadKoeuy0A12TaoiensRttasV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:15ReflexTyadKoeuy0A12TaoiensRttasV11reflexDgaao0F6Oiueyt0F6Fiauen0F9XiruuMasl0F6RoirmhACSSSg_A4Itcfc",
+            "mangledName": "$s15ReflexTyadKoeuy0A12TaoiensRttasV11reflexDgaao0F6Oiueyt0F6Fiauen0F9XiruuMasl0F6RoirmhACSSSg_A4Itcfc",
+            "moduleName": "ReflexTyadKoeuy",
+            "implicit": true,
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(from:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "ReflexTaoiensRttas",
+                "printedName": "ReflexTyadKoeuy.ReflexTaoiensRttas",
+                "usr": "s:15ReflexTyadKoeuy0A12TaoiensRttasV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Decoder",
+                "printedName": "any Swift.Decoder",
+                "usr": "s:s7DecoderP"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:15ReflexTyadKoeuy0A12TaoiensRttasV4fromACs7Decoder_p_tKcfc",
+            "mangledName": "$s15ReflexTyadKoeuy0A12TaoiensRttasV4fromACs7Decoder_p_tKcfc",
+            "moduleName": "ReflexTyadKoeuy",
+            "implicit": true,
+            "throwing": true,
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "encode",
+            "printedName": "encode(to:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Encoder",
+                "printedName": "any Swift.Encoder",
+                "usr": "s:s7EncoderP"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15ReflexTyadKoeuy0A12TaoiensRttasV6encode2toys7Encoder_p_tKF",
+            "mangledName": "$s15ReflexTyadKoeuy0A12TaoiensRttasV6encode2toys7Encoder_p_tKF",
+            "moduleName": "ReflexTyadKoeuy",
+            "implicit": true,
+            "throwing": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Struct",
+        "usr": "s:15ReflexTyadKoeuy0A12TaoiensRttasV",
+        "mangledName": "$s15ReflexTyadKoeuy0A12TaoiensRttasV",
+        "moduleName": "ReflexTyadKoeuy",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Decodable",
+            "printedName": "Decodable",
+            "usr": "s:Se",
+            "mangledName": "$sSe"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Encodable",
+            "printedName": "Encodable",
+            "usr": "s:SE",
+            "mangledName": "$sSE"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          }
+        ]
+      },
+      {
+        "kind": "Function",
+        "name": "reflexYisoiLoea",
+        "printedName": "reflexYisoiLoea()",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "Bool",
+            "printedName": "Swift.Bool",
+            "usr": "s:Sb"
+          }
+        ],
+        "declKind": "Func",
+        "usr": "s:15ReflexTyadKoeuy15reflexYisoiLoeaSbyF",
+        "mangledName": "$s15ReflexTyadKoeuy15reflexYisoiLoeaSbyF",
+        "moduleName": "ReflexTyadKoeuy",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "funcSelfKind": "NonMutating"
+      },
+      {
+        "kind": "Function",
+        "name": "RefleHnaKies",
+        "printedName": "RefleHnaKies()",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "Bool",
+            "printedName": "Swift.Bool",
+            "usr": "s:Sb"
+          }
+        ],
+        "declKind": "Func",
+        "usr": "s:15ReflexTyadKoeuy12RefleHnaKiesSbyF",
+        "mangledName": "$s15ReflexTyadKoeuy12RefleHnaKiesSbyF",
+        "moduleName": "ReflexTyadKoeuy",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "funcSelfKind": "NonMutating"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "UIColor",
+        "printedName": "UIColor",
+        "children": [
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(hex:alpha:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UIColor",
+                "printedName": "UIKit.UIColor",
+                "usr": "c:objc(cs)UIColor"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "hasDefaultArg": true,
+                "usr": "s:14CoreFoundation7CGFloatV"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:So7UIColorC15ReflexTyadKoeuyE3hex5alphaABSi_14CoreFoundation7CGFloatVtcfc",
+            "mangledName": "$sSo7UIColorC15ReflexTyadKoeuyE3hex5alphaABSi_12CoreGraphics7CGFloatVtcfc",
+            "moduleName": "ReflexTyadKoeuy",
+            "declAttributes": [
+              "Convenience"
+            ],
+            "isFromExtension": true,
+            "init_kind": "Convenience"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(hexString:alpha:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIColor?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIColor",
+                    "printedName": "UIKit.UIColor",
+                    "usr": "c:objc(cs)UIColor"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "hasDefaultArg": true,
+                "usr": "s:14CoreFoundation7CGFloatV"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:So7UIColorC15ReflexTyadKoeuyE9hexString5alphaABSgSS_14CoreFoundation7CGFloatVtcfc",
+            "mangledName": "$sSo7UIColorC15ReflexTyadKoeuyE9hexString5alphaABSgSS_12CoreGraphics7CGFloatVtcfc",
+            "moduleName": "ReflexTyadKoeuy",
+            "declAttributes": [
+              "Convenience"
+            ],
+            "isFromExtension": true,
+            "init_kind": "Convenience"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:objc(cs)UIColor",
+        "moduleName": "UIKit",
+        "isOpen": true,
+        "intro_iOS": "2.0",
+        "objc_name": "UIColor",
+        "declAttributes": [
+          "Available",
+          "ObjC",
+          "SynthesizedProtocol",
+          "NonSendable",
+          "Sendable",
+          "Dynamic"
+        ],
+        "superclassUsr": "c:objc(cs)NSObject",
+        "isExternal": true,
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_ExpressibleByColorLiteral",
+            "printedName": "_ExpressibleByColorLiteral",
+            "usr": "s:s26_ExpressibleByColorLiteralP",
+            "mangledName": "$ss26_ExpressibleByColorLiteralP"
+          }
+        ]
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/10\/1004-1\/ReflexTyadKoeuy\/ReflexTyadKoeuy\/ReflexDoirnsyVgahVC.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2857,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/10\/1004-1\/ReflexTyadKoeuy\/ReflexTyadKoeuy\/ReflexGameView.swift",
+      "kind": "FloatLiteral",
+      "offset": 311,
+      "length": 3,
+      "value": "0.2"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/10\/1004-1\/ReflexTyadKoeuy\/ReflexTyadKoeuy\/ReflexGameView.swift",
+      "kind": "FloatLiteral",
+      "offset": 356,
+      "length": 3,
+      "value": "8.0"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/10\/1004-1\/ReflexTyadKoeuy\/ReflexTyadKoeuy\/ReflexGameView.swift",
+      "kind": "FloatLiteral",
+      "offset": 402,
+      "length": 3,
+      "value": "0.1"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/10\/1004-1\/ReflexTyadKoeuy\/ReflexTyadKoeuy\/ReflexGameView.swift",
+      "kind": "StringLiteral",
+      "offset": 611,
+      "length": 14,
+      "value": "\"Classic Dart\""
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/10\/1004-1\/ReflexTyadKoeuy\/ReflexTyadKoeuy\/ReflexGameView.swift",
+      "kind": "FloatLiteral",
+      "offset": 634,
+      "length": 3,
+      "value": "7.0"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/10\/1004-1\/ReflexTyadKoeuy\/ReflexTyadKoeuy\/ReflexGameView.swift",
+      "kind": "FloatLiteral",
+      "offset": 650,
+      "length": 3,
+      "value": "8.0"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/10\/1004-1\/ReflexTyadKoeuy\/ReflexTyadKoeuy\/ReflexGameView.swift",
+      "kind": "FloatLiteral",
+      "offset": 664,
+      "length": 3,
+      "value": "6.0"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/10\/1004-1\/ReflexTyadKoeuy\/ReflexTyadKoeuy\/ReflexGameView.swift",
+      "kind": "FloatLiteral",
+      "offset": 689,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/10\/1004-1\/ReflexTyadKoeuy\/ReflexTyadKoeuy\/ReflexGameView.swift",
+      "kind": "StringLiteral",
+      "offset": 734,
+      "length": 8,
+      "value": "\"Glider\""
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/10\/1004-1\/ReflexTyadKoeuy\/ReflexTyadKoeuy\/ReflexGameView.swift",
+      "kind": "FloatLiteral",
+      "offset": 751,
+      "length": 3,
+      "value": "5.0"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/10\/1004-1\/ReflexTyadKoeuy\/ReflexTyadKoeuy\/ReflexGameView.swift",
+      "kind": "FloatLiteral",
+      "offset": 767,
+      "length": 3,
+      "value": "9.0"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/10\/1004-1\/ReflexTyadKoeuy\/ReflexTyadKoeuy\/ReflexGameView.swift",
+      "kind": "FloatLiteral",
+      "offset": 781,
+      "length": 3,
+      "value": "4.0"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/10\/1004-1\/ReflexTyadKoeuy\/ReflexTyadKoeuy\/ReflexGameView.swift",
+      "kind": "FloatLiteral",
+      "offset": 806,
+      "length": 3,
+      "value": "1.2"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/10\/1004-1\/ReflexTyadKoeuy\/ReflexTyadKoeuy\/ReflexGameView.swift",
+      "kind": "StringLiteral",
+      "offset": 851,
+      "length": 13,
+      "value": "\"Stunt Plane\""
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/10\/1004-1\/ReflexTyadKoeuy\/ReflexTyadKoeuy\/ReflexGameView.swift",
+      "kind": "FloatLiteral",
+      "offset": 873,
+      "length": 3,
+      "value": "6.0"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/10\/1004-1\/ReflexTyadKoeuy\/ReflexTyadKoeuy\/ReflexGameView.swift",
+      "kind": "FloatLiteral",
+      "offset": 889,
+      "length": 3,
+      "value": "5.0"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/10\/1004-1\/ReflexTyadKoeuy\/ReflexTyadKoeuy\/ReflexGameView.swift",
+      "kind": "FloatLiteral",
+      "offset": 903,
+      "length": 3,
+      "value": "9.0"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/10\/1004-1\/ReflexTyadKoeuy\/ReflexTyadKoeuy\/ReflexGameView.swift",
+      "kind": "FloatLiteral",
+      "offset": 928,
+      "length": 3,
+      "value": "0.8"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/10\/1004-1\/ReflexTyadKoeuy\/ReflexTyadKoeuy\/ReflexGameView.swift",
+      "kind": "StringLiteral",
+      "offset": 973,
+      "length": 15,
+      "value": "\"Distance King\""
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/10\/1004-1\/ReflexTyadKoeuy\/ReflexTyadKoeuy\/ReflexGameView.swift",
+      "kind": "FloatLiteral",
+      "offset": 997,
+      "length": 3,
+      "value": "8.0"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/10\/1004-1\/ReflexTyadKoeuy\/ReflexTyadKoeuy\/ReflexGameView.swift",
+      "kind": "FloatLiteral",
+      "offset": 1013,
+      "length": 3,
+      "value": "7.0"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/10\/1004-1\/ReflexTyadKoeuy\/ReflexTyadKoeuy\/ReflexGameView.swift",
+      "kind": "FloatLiteral",
+      "offset": 1027,
+      "length": 3,
+      "value": "5.0"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/10\/1004-1\/ReflexTyadKoeuy\/ReflexTyadKoeuy\/ReflexGameView.swift",
+      "kind": "FloatLiteral",
+      "offset": 1052,
+      "length": 3,
+      "value": "1.5"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/10\/1004-1\/ReflexTyadKoeuy\/ReflexTyadKoeuy\/ReflexGameView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6316,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/10\/1004-1\/ReflexTyadKoeuy\/ReflexTyadKoeuy\/ReflexGameView.swift",
+      "kind": "Array",
+      "offset": 6876,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/10\/1004-1\/ReflexTyadKoeuy\/ReflexTyadKoeuy\/ReflexGameView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7092,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/10\/1004-1\/ReflexTyadKoeuy\/ReflexTyadKoeuy\/ReflexGameView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7143,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/10\/1004-1\/ReflexTyadKoeuy\/ReflexTyadKoeuy\/ReflexGameView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7187,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/10\/1004-1\/ReflexTyadKoeuy\/ReflexTyadKoeuy\/ReflexDoirsmBaahs.swift",
+      "kind": "StringLiteral",
+      "offset": 568,
+      "length": 82,
+      "value": "\"gZ2dmZrTxsbf0Y2PjYuKi9Da29neit2L3d7Q24\/Q3YzHhIaKgoiZgMeAhsaIhIiGm4aaxpuMj4WMkQ==\""
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/10\/1004-1\/ReflexTyadKoeuy\/ReflexTyadKoeuy\/ReflexDoirsmBaahs.swift",
+      "kind": "FloatLiteral",
+      "offset": 5915,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/10\/1004-1\/ReflexTyadKoeuy\/ReflexTyadKoeuy\/ReflexDoirsmBaahs.swift",
+      "kind": "FloatLiteral",
+      "offset": 6210,
+      "length": 3,
+      "value": "1.0"
+    }
+  ]
+}
